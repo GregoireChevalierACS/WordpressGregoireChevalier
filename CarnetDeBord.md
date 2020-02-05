@@ -23,8 +23,8 @@ Jour 2 :
  - Fix des fonctions php relatives aux dates
  - Ajout de la localisation par pays et affichage relatif
  
- Je me suis amusé à résoudre des problèmes mineurs relatifs à l'affichage des dates
+ Je me suis amusé à résoudre des problèmes mineurs relatifs à l'affichage des dates, leur format d'affichage et le passage d'un mois à l'autre. L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyOTYyNDc3XX0=
+eyJoaXN0b3J5IjpbLTE3MTQ0MDMzN119
 -->
