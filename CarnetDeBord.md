@@ -34,7 +34,10 @@ Jour 3
 
  - Création du repo git hub
  - Ajout du fichier md et début du carnet de bord
+ - Continuité des recherches sur l'intégration du Js  au wordpress
 
+Bon, cette fois, je ne peux plus repousser. J'ai bien tenté de traînailler en faisant le repo et en éditant le carnet de bord, mais j'en suis arrivé au point où 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzAwMDQyOCwtMTMwMzQ2ODIzOV19
+eyJoaXN0b3J5IjpbOTA2NTU3MzEyLC04NTMwMDA0MjgsLTEzMD
+M0NjgyMzldfQ==
 -->
