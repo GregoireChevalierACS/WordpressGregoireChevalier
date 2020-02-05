@@ -18,8 +18,10 @@ Jour 1 :
 Jour 2 :
 
  - Création du dossier du plugin météo
- - Visionnage de vidéos d'introduction 
+ - Visionnage de vidéos d'introduction à Wordpress
+ - Ajout des dates ultérieures 
+ - Fix des fonctions php relatives aux dates pour 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTQ5MzE2MV19
+eyJoaXN0b3J5IjpbMTMyOTg1MzI4NV19
 -->
