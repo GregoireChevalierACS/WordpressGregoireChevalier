@@ -20,8 +20,11 @@ Jour 2 :
  - Création du dossier du plugin météo
  - Visionnage de vidéos d'introduction à Wordpress
  - Ajout des dates ultérieures 
- - Fix des fonctions php relatives aux dates pour 
+ - Fix des fonctions php relatives aux dates
+ - Ajout de la localisation par pays et affichage relatif
+ 
+ Je me suis amusé à résoudre des problèmes mineurs relatifs à l'affichage des dates
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTg1MzI4NV19
+eyJoaXN0b3J5IjpbOTMyOTYyNDc3XX0=
 -->
