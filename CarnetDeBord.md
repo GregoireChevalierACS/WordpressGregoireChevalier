@@ -35,9 +35,12 @@ Jour 3
  - Création du repo git hub
  - Ajout du fichier md et début du carnet de bord
  - Continuité des recherches sur l'intégration du Js  au wordpress
+ - Documentation
 
-Bon, cette fois, je ne peux plus repousser. J'ai bien tenté de traînailler en faisant le repo et en éditant le carnet de bord, mais j'en suis arrivé au point où il va falloir que je me farcisse la série de vidéos tuto d'Alecad, qui selon ce que j'ai récolté comme info dans la classe, est fort adaptée à la structure de notre projet en plsu
+Bon, cette fois, je ne peux plus repousser. J'ai bien tenté de traînailler en faisant le repo et en éditant le carnet de bord, mais j'en suis arrivé au point où il va falloir que je me farcisse la série de vidéos tuto d'Alecad, qui selon ce que j'ai récolté comme info dans la classe, est fort adaptée à la structure de notre projet en plus d'être didactique.
+Et. Elle. Fait. 63. Épisodes.
+Bah c'est parti..... après la pause :p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk3MDUzNzQsLTg1MzAwMDQyOCwtMT
-MwMzQ2ODIzOV19
+eyJoaXN0b3J5IjpbMzY3MzMxODE4LC04NTMwMDA0MjgsLTEzMD
+M0NjgyMzldfQ==
 -->
