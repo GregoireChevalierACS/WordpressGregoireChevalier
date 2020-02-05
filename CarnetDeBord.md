@@ -13,12 +13,12 @@ Jour 1 :
  - Installation de Wordpress
  - Découverte des fonctionnalités, premier test de plugin
  
- Étant totalement débutant sur Wordpress, je passe la première après midi de ce projet à découvrir l'interface et à parcourir ses fonctionnalités. 
+ Étant totalement débutant sur Wordpress, je passe la première après midi de ce projet à découvrir l'interface et à parcourir ses fonctionnalités.  Pour lancer le projet, je passe à la création du plugin dans lequel je marque une ligne de texte et la date avant de replonger dans la documentation.
 
 Jour 2 :
 
- - Création du dossier et du plugin météo
+ - Création du dossier du plugin météo
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzM3NDI5M119
+eyJoaXN0b3J5IjpbLTI2MDc0MTc1XX0=
 -->
