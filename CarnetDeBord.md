@@ -6,6 +6,7 @@ Les données météorologiques seront récupérées avec une API et affichées e
 
 À terme, le plugin a vocation de permettre à l'utilisateur de changer la localisation du bulletin météo 
 
+31/1/2020
 Jour 1 : 
 
  - Explication du projet et des consignes
@@ -15,6 +16,7 @@ Jour 1 :
  
  Étant totalement débutant sur Wordpress, je passe la première après midi de ce projet à découvrir l'interface et à parcourir ses fonctionnalités.  Pour lancer le projet, je passe à la création du plugin dans lequel je marque une ligne de texte et la date avant de replonger dans la documentation.
 
+4/2/2020
 Jour 2 :
 
  - Création du dossier du plugin météo
@@ -27,6 +29,12 @@ Jour 2 :
 La localisation pose un tout autre problème, je galère à traduire ce que me renvoie la fonction qui détecte le code pays et à l'afficher correctement. Après quelques allers-retour dans la doc, le problème est reglé et je décide de tenter de changer la localisation pour voir si le résultat affiché change bien également, seulement, pour accéder à cette fonction (la SetLocale() de php ne portant pas ses fruits), il me faut gérer cela via JavaScript. 
 Et là je vais devoir me pencher sur la partie intégration du css/Js au wordpress, que je repousse par flemme depuis le début du projet. La journée se termine là dessus et je remets le tout au lendemain.
 
+5/2/2020
+Jour 3
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgxMDQ5MDBdfQ==
+eyJoaXN0b3J5IjpbLTEzMDM0NjgyMzldfQ==
 -->
