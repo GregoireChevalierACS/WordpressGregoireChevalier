@@ -32,9 +32,10 @@ Et là je vais devoir me pencher sur la partie intégration du css/Js au wordpre
 5/2/2020
 Jour 3
 
-
-
+ - Création du repo git hub
+ - Ajout 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM0NjgyMzldfQ==
+eyJoaXN0b3J5IjpbLTE1ODA2NTkyNjcsLTEzMDM0NjgyMzldfQ
+==
 -->
