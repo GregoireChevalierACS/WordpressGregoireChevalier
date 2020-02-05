@@ -36,8 +36,8 @@ Jour 3
  - Ajout du fichier md et début du carnet de bord
  - Continuité des recherches sur l'intégration du Js  au wordpress
 
-Bon, cette fois, je ne peux plus repousser. J'ai bien tenté de traînailler en faisant le repo et en éditant le carnet de bord, mais j'en suis arrivé au point où 
+Bon, cette fois, je ne peux plus repousser. J'ai bien tenté de traînailler en faisant le repo et en éditant le carnet de bord, mais j'en suis arrivé au point où il va falloir que 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NTU3MzEyLC04NTMwMDA0MjgsLTEzMD
-M0NjgyMzldfQ==
+eyJoaXN0b3J5IjpbLTI0MzQ3ODM2MiwtODUzMDAwNDI4LC0xMz
+AzNDY4MjM5XX0=
 -->
