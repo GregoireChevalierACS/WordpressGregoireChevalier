@@ -33,9 +33,8 @@ Et là je vais devoir me pencher sur la partie intégration du css/Js au wordpre
 Jour 3
 
  - Création du repo git hub
- - Ajout 
+ - Ajout du fichier md et début du carnet de bord
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODA2NTkyNjcsLTEzMDM0NjgyMzldfQ
-==
+eyJoaXN0b3J5IjpbLTg1MzAwMDQyOCwtMTMwMzQ2ODIzOV19
 -->
