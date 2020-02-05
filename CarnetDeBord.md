@@ -18,7 +18,8 @@ Jour 1 :
 Jour 2 :
 
  - Création du dossier du plugin météo
+ - Visionnage de vidéos d'introduction 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDc0MTc1XX0=
+eyJoaXN0b3J5IjpbLTUyNTQ5MzE2MV19
 -->
