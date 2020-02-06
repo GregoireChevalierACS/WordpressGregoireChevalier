@@ -48,6 +48,7 @@ Jour 4
 
 Petit passage par le php orienté objet pour commencer, je n'en aurai pas l'utilité dans l'immédiat mais je sens que ça va me servir pour plus tard.
 CA Y EST j'ai enfin trouvé la vidéo qui va me permettre d'intégrer mon Js à Wordpress, à priori ça utilise du enqueue ... On verra bien.
+Maintenant que c'est fait, je vais pouvoir attaquer un autre gros morceau, l'intégration d'Ajax et la gestion d'API. La légende raconte que c'est facile avec jQuery, mais vu que c'est sur le déclin 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzY5MTU2OF19
+eyJoaXN0b3J5IjpbMTA4MDk3MjI0OSwxMzM3NjkxNTY4XX0=
 -->
