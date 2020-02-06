@@ -56,7 +56,8 @@ Maintenant que c'est fait, je vais pouvoir attaquer un autre gros morceau, l'int
 Une source fiable *(tousse)* Aranxa *(tousse)* m'a mis au courant que l'Ajax se gérait depuis le Js. Je sens que ça vient de m'éviter de me perdre longuement. Le premier contact avec Ajax va probablement mieux se passer que prévu.
 J'apprends aussi qu’Ajax est l’acronyme de « Asynchronous Javascript And Xml ». Ca m'évitera *peut-être* de faire des blagues ... décapantes.
 J'ai trouvé un site qui met en vis-à-vis les lignes de code en jQuery et en Js vanilla sur le site au doux nom de : https://putaindecode.io/articles/de-jquery-a-vanillajs/#ajax . Les codeurs sont des petits rigolo si tu veux mon avis  （°々。）
-Suite à la réunion initiée par notre cher formateur, il a fallu que je repense le projet du point de vue du concept. Je m'étais focalisé sur la technique pour voir ce que je pourrai réaliser et comment, malheureusement il aurait fallu partir du principe que la technique serait acquise et qu'il fallait concevoir de façon ambitieuse
+Suite à la réunion initiée par notre cher formateur, il a fallu que je repense le projet du point de vue du concept. Je m'étais focalisé sur la technique pour voir ce que je pourrai réaliser et comment, malheureusement il aurait fallu partir du principe que la technique serait acquise et qu'il fallait concevoir de façon ambitieuse. Donc, papier, stylo et c'est parti pour coucher des idées sur le papier. 
+Me voilà donc
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NzUwMjA4LC05NTM1MjExNDJdfQ==
+eyJoaXN0b3J5IjpbMTg4NDcxNjcwLC05NTM1MjExNDJdfQ==
 -->
