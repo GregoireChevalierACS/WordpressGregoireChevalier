@@ -54,8 +54,8 @@ CA Y EST j'ai enfin trouvé la vidéo qui va me permettre d'intégrer mon Js à 
 Maintenant que c'est fait, je vais pouvoir attaquer un autre gros morceau, l'intégration d'Ajax et la gestion d'API. La légende raconte que c'est facile avec jQuery, mais vu que c'est sur le déclin, je pense pas utiliser ça mais plutôt Js vanilla. On verra bien, je vais juste me renseigner sur la méthode jQuery, on sait jamais ( ͡° ͜ʖ ͡°).
 Une source fiable *(tousse)* Aranxa *(tousse)* m'a mis au courant que l'Ajax se gérait depuis le Js. Je sens que ça vient de m'éviter de me perdre longuement. Le premier contact avec Ajax va probablement mieux se passer que prévu.
 J'apprends aussi qu’Ajax est l’acronyme de « Asynchronous Javascript And Xml ». Ca m'évitera *peut-être* de faire des blagues ... décapantes.
-J'ai trouvé un site qui c
+J'ai trouvé un site qui met en vis-à-vis les lignes de code en jQuery et en Js vanilla sur le site au doux nom de : https://putaindecode.io/articles/de-jquery-a-vanillajs/#ajax . Les codeurs sont des petits rigolo si tu veux mon avis 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg1ODYxNDQsLTE0MDkxMjY3MjJdfQ
+eyJoaXN0b3J5IjpbLTEwMTA0MjkxNzgsLTE0MDkxMjY3MjJdfQ
 ==
 -->
