@@ -47,7 +47,7 @@ Jour 4
  - Reprise de la lecture de la doc et tutos vidéo
  - Bidouillages en Css pour prévoir l'accueil des fonctionnalités
  - Étude de l'Ajax
- - Recherche d'API météo
+ - Reprise du concept et mise à plat sous forme de visuels
 
 Petit passage par le php orienté objet pour commencer, je n'en aurai pas l'utilité dans l'immédiat mais je sens que ça va me servir pour plus tard.
 CA Y EST j'ai enfin trouvé la vidéo qui va me permettre d'intégrer mon Js à Wordpress, à priori ça utilise du enqueue ... On verra bien.
@@ -56,5 +56,6 @@ Une source fiable *(tousse)* Aranxa *(tousse)* m'a mis au courant que l'Ajax se 
 J'apprends aussi qu’Ajax est l’acronyme de « Asynchronous Javascript And Xml ». Ca m'évitera *peut-être* de faire des blagues ... décapantes.
 J'ai trouvé un site qui met en vis-à-vis les lignes de code en jQuery et en Js vanilla sur le site au doux nom de : https://putaindecode.io/articles/de-jquery-a-vanillajs/#ajax . Les codeurs sont des petits rigolo si tu veux mon avis  （°々。）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDU0NzAwNiwtNzQwNTQ3MDA2XX0=
+eyJoaXN0b3J5IjpbMTExMDg5MDMxNiwtNzQwNTQ3MDA2LC03ND
+A1NDcwMDZdfQ==
 -->
