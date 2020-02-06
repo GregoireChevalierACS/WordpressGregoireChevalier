@@ -26,32 +26,6 @@ $languages = array('en-GB', 'fr', 'fr-BE', 'fr-CA', 'de', 'en-US', 'en-CA', 'en-
 $_SERVER['HTTP_ACCEPT_LANGUAGE']; //detecte le langage du browser
 $user_language = explode(',',$_SERVER['HTTP_ACCEPT_LANGUAGE']);
 
-// function code_to_country( $code ){
-
-//     $code = strtoupper($code);
-
-//     $countryList = array( 'cn-CN' => 'Chine',
-//         'de' => 'Allemagne',
-//         'en-AU' => 'Australie',
-//         'en-CA' => 'Canada',
-//         'en-GB' => 'Royaume-Uni',
-//         'en-US' => 'EtatsUnis',
-//         'en-NZ' => 'Nouvelle-Zelande',
-//         'es-AR' => 'Argentine',
-//         'es-ES' => 'Espagne',
-//         'es-MX' => 'Mexique',
-//         'fr' => 'France',
-//         'fr-BE' => 'Belgique',
-//         'fr-CA' => 'Quebec',
-//         'it-IT' => 'Italie',
-//         'ja-JP' => 'Japon',
-//     );
-
-//     if( !$countryList[$code] ) return $code;
-//     else return $countryList[$code];
-
-//     }
-
 $countryList = array( 'cn-CN',
         'de',
         'en-AU',
@@ -106,6 +80,16 @@ $countryLanguage = array('mandarin',
 $subject = $countryList;
 $subject2 = $countryLanguage;
 
+function enqueue(){
+    wp_enqueue_style( 'pluginmeteo', plugins_url( '/css/pluginmeteo.css', __FILE__ )  );
+    wp_enqueue_script( 'pluginmeteo', plugins_url( '/js/pluginmeteo.js', __FILE__ ) )
+}
+
+class LagregzePluginMeteo{
+
+
+    
+}
 
 ?>
 <br>
