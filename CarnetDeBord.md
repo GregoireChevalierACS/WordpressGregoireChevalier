@@ -60,6 +60,5 @@ Suite à la réunion initiée par notre cher formateur, il a fallu que je repens
 Me voilà donc avec un projet validé par ce cher formateur, qui y est allé de son petit ajout de fonctionnalité. Et autant je peux entrevoir comment je vais réaliser l'organisation du plugin, autant pour ce qui va être de le remplir, là ...  ¯\_(ツ)_/¯
 Mais au moins j'ai des jolis schémas. Je vais donc mettre tous mes doute sous le tapis (de souris) et ça ne sera un problème que demain matin.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTIyMDMxMzYsMTAxMjU4MTYwNiwtOT
-UzNTIxMTQyXX0=
+eyJoaXN0b3J5IjpbLTIwOTIyMDMxMzZdfQ==
 -->
