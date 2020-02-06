@@ -40,7 +40,13 @@ Jour 3
 Bon, cette fois, je ne peux plus repousser. J'ai bien tenté de traînailler en faisant le repo et en éditant le carnet de bord, mais j'en suis arrivé au point où il va falloir que je me farcisse la série de vidéos tuto d'Alecad, qui selon ce que j'ai récolté comme info dans la classe, est fort adaptée à la structure de notre projet en plus d'être didactique.
 Et. Elle. Fait. 63. Épisodes.
 Bah c'est parti..... après la pause :p
+
+6/2/2020
+Jour 4
+
+ - Reprise de la lecture de la doc et tutos vidéo
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MzMxODE4LC04NTMwMDA0MjgsLTEzMD
-M0NjgyMzldfQ==
+eyJoaXN0b3J5IjpbMjEyMTQ0Nzk4MiwzNjczMzE4MTgsLTg1Mz
+AwMDQyOCwtMTMwMzQ2ODIzOV19
 -->
