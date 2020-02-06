@@ -1,8 +1,32 @@
 body{
-
-margin: 5vw 5vh;
-color: rgb(65, 63, 55);
-background: rgb(209, 202, 193);
-
+width: fit-content;
 }
 
+.containerPlugin{
+    display: flex;
+margin: 5vw 5vh;
+color: rgb(209, 202, 193);
+align-items: center;
+justify-content: center;
+position: fixed;
+}
+
+.containerBoutons{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    background-color: rgb(65, 63, 55);
+}
+
+.centered{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+
+.bouton{
+    color: red;
+height: auto;
+}

@@ -15,7 +15,7 @@ if ( ! defined ( 'ABSPATH')){
 // defined('ABSPATH') or die('gtfo scrub');
 // if ( ! function_exists( 'add_action' )){ die('gtfo scrub'); }
 
-echo "Ceci est un plugin météo. Enfin, pas encore, mais j'y travaille.";
+// echo "Ceci est un plugin météo. Enfin, pas encore, mais j'y travaille.";
 
 $today_date = date('d F Y');
 $tomorrow_date = new DateTime('tomorrow');
@@ -80,19 +80,47 @@ $countryLanguage = array('mandarin',
 $subject = $countryList;
 $subject2 = $countryLanguage;
 
-function enqueue(){
-    wp_enqueue_style( 'pluginmeteo', plugins_url( '/css/pluginmeteo.css', __FILE__ )  );
-    wp_enqueue_script( 'pluginmeteo', plugins_url( '/js/pluginmeteo.js', __FILE__ ) )
-}
 
 class LagregzePluginMeteo{
 
+    // function __construct(){
+    //     add_action( 'init', array($this, 'custom_post_type') );
+    // }
 
-    
+    function register_admin_scripts(){
+        add_action( 'admin_enqueue_scripts', array($this, 'enqueue') );
+    }
+
+    function register_scripts(){
+        add_action( 'wp_enqueue_scripts', array($this, 'enqueue') );
+    }
+
+    function enqueue(){
+        wp_enqueue_style( 'pluginmeteo', plugins_url( '/css/pluginmeteo.css', __FILE__ )  );
+        wp_enqueue_script( 'pluginmeteo', plugins_url( '/js/pluginmeteo.js', __FILE__ ) );
+    }
+
 }
 
+if(class_exists('LagregzePluginMeteo')){
+    $lagregzePluginMeteo = new LagregzePluginMeteo();
+    $lagregzePluginMeteo->register_admin_scripts();
+    $lagregzePluginMeteo->register_scripts();
+}
+
+register_activation_hook( __FILE__, array($LagregzePluginMeteo, 'activate') );
+
+register_deactivation_hook( __FILE__, array($LagregzePluginMeteo, 'deactivate') ); 
+
+// ============================CONSTRUCTION HTML DU PLUGIN==============================================
 ?>
+
+<div class="containerPlugin">
+
+<div class="containerBoutons">
 <br>
+
+<p class=centered>Ceci est un plugin météo. Enfin, pas encore, mais j'y travaille.</p>
 
 <button class="bouton"> Date du jour : <?php echo $today_date;?></button>
 <br>
@@ -119,9 +147,16 @@ foreach($user_language as $lang)
         ?>
         <button class="bouton"> Vous parlez : <?php echo $langueParlee;?></button>
         <button class="bouton"> Votre pays de localisation : <?php echo $paysConcerne;?></button>
-
+        
 <?php        break;
 	}else {
         setlocale('en-US');
     }
 }
+?>
+<button class="bouton">Température actuelle : </button>
+<br>
+<button class="bouton">Temps prévu : </button>
+<br>
+</div>
+</div>
