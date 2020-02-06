@@ -49,7 +49,5 @@ Jour 4
 Petit passage par le php orienté objet pour commencer, je n'en aurai pas l'utilité dans l'immédiat mais je sens que ça va me servir pour plus tard.
 CA Y EST j'ai enfin trouvé la vidéo qui va me permettre d'intégrer mon Js à Wordpress, à priori ça utilise du enqueue ... On verra bien.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzY5MTU2OCw1Mzk2NTMyNzgsMjEyMT
-Q0Nzk4MiwzNjczMzE4MTgsLTg1MzAwMDQyOCwtMTMwMzQ2ODIz
-OV19
+eyJoaXN0b3J5IjpbMTMzNzY5MTU2OF19
 -->
