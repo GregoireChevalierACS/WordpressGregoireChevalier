@@ -47,8 +47,9 @@ Jour 4
  - Reprise de la lecture de la doc et tutos vidéo
 
 Petit passage par le php orienté objet pour commencer, je n'en aurai pas l'utilité dans l'immédiat mais je sens que ça va me servir pour plus tard.
-
+CA Y EST j'ai enfin trouvé la vidéo qui va me permettre d'intégrer mon Js à Wordpress, à priori ça utilise du enqueue ... On verra bien.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5NjUzMjc4LDIxMjE0NDc5ODIsMzY3Mz
-MxODE4LC04NTMwMDA0MjgsLTEzMDM0NjgyMzldfQ==
+eyJoaXN0b3J5IjpbMTMzNzY5MTU2OCw1Mzk2NTMyNzgsMjEyMT
+Q0Nzk4MiwzNjczMzE4MTgsLTg1MzAwMDQyOCwtMTMwMzQ2ODIz
+OV19
 -->
