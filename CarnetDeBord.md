@@ -45,10 +45,14 @@ Bah c'est parti..... après la pause :p
 Jour 4
 
  - Reprise de la lecture de la doc et tutos vidéo
+ - Bidouillages en Css pour prévoir l'accueil des fonctionnalités
+ - Étude de l'Ajax
+ - Recherche d'API
 
 Petit passage par le php orienté objet pour commencer, je n'en aurai pas l'utilité dans l'immédiat mais je sens que ça va me servir pour plus tard.
 CA Y EST j'ai enfin trouvé la vidéo qui va me permettre d'intégrer mon Js à Wordpress, à priori ça utilise du enqueue ... On verra bien.
-Maintenant que c'est fait, je vais pouvoir attaquer un autre gros morceau, l'intégration d'Ajax et la gestion d'API. La légende raconte que c'est facile avec jQuery, mais vu que c'est sur le déclin, je pense pas utiliser ça mais plutôt Js vanilla. On verra bien, je vais juste me renseigner sur la méthode jQuery, on sait jamais ( ͡° ͜ʖ ͡°)
+Maintenant que c'est fait, je vais pouvoir attaquer un autre gros morceau, l'intégration d'Ajax et la gestion d'API. La légende raconte que c'est facile avec jQuery, mais vu que c'est sur le déclin, je pense pas utiliser ça mais plutôt Js vanilla. On verra bien, je vais juste me renseigner sur la méthode jQuery, on sait jamais ( ͡° ͜ʖ ͡°).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjExNjA0OCwxMzM3NjkxNTY4XX0=
+eyJoaXN0b3J5IjpbLTM5MTUxMjkyMCwxMzM3NjkxNTY4XX0=
 -->
