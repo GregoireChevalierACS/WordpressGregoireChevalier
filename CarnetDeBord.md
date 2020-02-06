@@ -46,7 +46,9 @@ Jour 4
 
  - Reprise de la lecture de la doc et tutos vidéo
 
+Petit passage par le php orienté objet pour commencer, je n'en aurai pas l'utilité dans l'immédiat mais je sens que ça va me servir pour plus tard.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTQ0Nzk4MiwzNjczMzE4MTgsLTg1Mz
-AwMDQyOCwtMTMwMzQ2ODIzOV19
+eyJoaXN0b3J5IjpbNTM5NjUzMjc4LDIxMjE0NDc5ODIsMzY3Mz
+MxODE4LC04NTMwMDA0MjgsLTEzMDM0NjgyMzldfQ==
 -->
