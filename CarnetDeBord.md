@@ -68,9 +68,9 @@ Jour 5
  - Planification et prise de contact avec AJAX
 
 Ca pèle dehors. J'en ai encore les doigts engourdis, et je vais commencer la journée en douceur en posant rapidement la base d'HTML de mon plugin. Première étape, le matérialiser sous forme de petit bouton qui va activer ou désactiver le tout au clic.
-Je me bats actuellement contre wordpress qui passe outre mon css sur certains points.  À priori, ça viendrait du thème de la page. Retour à la case documentation.
+Je me bats actuellement contre wordpress qui passe outre mon css sur certains points.  À priori, ça viendrait du thème de la page. Retour à la case documentation. Puisqu'on peut gérer une partie du css depuis wordpress même, je vais arrêter de m’appesantir sur le sujet et passer 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzA2NDI4NywtNzQ1OTY1ODgwLC0yMD
-kyMjAzMTM2XX0=
+eyJoaXN0b3J5IjpbLTE4MDgzMzk5MDUsMTc3MzA2NDI4NywtNz
+Q1OTY1ODgwLC0yMDkyMjAzMTM2XX0=
 -->
