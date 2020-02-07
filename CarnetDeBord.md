@@ -66,7 +66,8 @@ Jour 5
  - Maquettage des fonctionnalités
 
 Ca pèle dehors. J'en ai encore les doigts engourdis, et je vais commencer la journée en douceur en posant rapidement la base d'HTML de mon plugin. Première étape, le matérialiser sous forme de petit bouton qui va activer ou désactiver le tout au clic.
-
+Je me bats actuellemen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTk2NTg4MCwtMjA5MjIwMzEzNl19
+eyJoaXN0b3J5IjpbMTQ3NDg2MjUxNiwtNzQ1OTY1ODgwLC0yMD
+kyMjAzMTM2XX0=
 -->
