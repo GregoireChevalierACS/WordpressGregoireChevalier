@@ -65,11 +65,12 @@ Jour 5
 
  - Maquettage des fonctionnalités
  - Documentation 
- - 
+ - Planification et prise de contact avec AJAX
 
 Ca pèle dehors. J'en ai encore les doigts engourdis, et je vais commencer la journée en douceur en posant rapidement la base d'HTML de mon plugin. Première étape, le matérialiser sous forme de petit bouton qui va activer ou désactiver le tout au clic.
 Je me bats actuellement contre wordpress qui passe outre mon css sur certains points.  À priori, ça viendrait du thème de la page. Retour à la case documentation.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzgwNTU3NiwtNzQ1OTY1ODgwLC0yMD
+eyJoaXN0b3J5IjpbMTc3MzA2NDI4NywtNzQ1OTY1ODgwLC0yMD
 kyMjAzMTM2XX0=
 -->
