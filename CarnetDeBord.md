@@ -69,9 +69,9 @@ Jour 5
 
 Ca pèle dehors. J'en ai encore les doigts engourdis, et je vais commencer la journée en douceur en posant rapidement la base d'HTML de mon plugin. Première étape, le matérialiser sous forme de petit bouton qui va activer ou désactiver le tout au clic.
 Je me bats actuellement contre wordpress qui passe outre mon css sur certains points.  À priori, ça viendrait du thème de la page. Retour à la case documentation. Puisqu'on peut gérer une partie du css depuis wordpress même, je vais arrêter de m’appesantir sur le sujet et passer à l'AJAX.
-Le premier contact se fait en douceur, j'apprivoise la bête de façon détournée pour pas (m')l'effrayer. J'ai trouvé 
+Le premier contact se fait en douceur, j'apprivoise la bête de façon détournée pour pas (m')l'effrayer. J'ai trouvé sur le site https://www.seomix.fr/ajax-wordpress/ une méthode qui accompagne pas à pas, mais qui, ô hérésie, utilise allégrement jQuery comme si tout était normal. Heureusement, j'ai déjà la parade, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTQwMDIxMywxNzczMDY0Mjg3LC03ND
-U5NjU4ODAsLTIwOTIyMDMxMzZdfQ==
+eyJoaXN0b3J5IjpbLTE5NjEwMjAwOTcsMTc3MzA2NDI4NywtNz
+Q1OTY1ODgwLC0yMDkyMjAzMTM2XX0=
 -->
