@@ -64,10 +64,12 @@ Mais au moins j'ai des jolis schémas. Je vais donc mettre tous mes doute sous l
 Jour 5
 
  - Maquettage des fonctionnalités
+ - Documentation 
+ - 
 
 Ca pèle dehors. J'en ai encore les doigts engourdis, et je vais commencer la journée en douceur en posant rapidement la base d'HTML de mon plugin. Première étape, le matérialiser sous forme de petit bouton qui va activer ou désactiver le tout au clic.
-Je me bats actuellemen
+Je me bats actuellement contre wordpress qui passe outre mon css sur certains points.  À priori, ça viendrait du thème de la page. Retour à la case documentation.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDg2MjUxNiwtNzQ1OTY1ODgwLC0yMD
+eyJoaXN0b3J5IjpbLTMyNzgwNTU3NiwtNzQ1OTY1ODgwLC0yMD
 kyMjAzMTM2XX0=
 -->
