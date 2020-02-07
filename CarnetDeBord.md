@@ -65,8 +65,9 @@ Jour 5
 
  - Maquettage des fonctionnalités
 
-
+Ca pèle dehors. J'en ai encore les doigts engourdis, et je vais commencer la journée en douceur en posant rapidement la base d'HTML.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NzQyMzQ5LC0yMDkyMjAzMTM2XX0=
+eyJoaXN0b3J5IjpbLTE3MzUzMjM2MTUsLTIwOTIyMDMxMzZdfQ
+==
 -->
