@@ -77,10 +77,10 @@ Jour 6
  - Début de l'apprentissage de l'AJAX
  - s
 
-Lundi matin, démarrage en douceur, je mets à jour la VM, et je pose un regard distrait sur la doc concernant l'AJAX,  qui résume ce que j'ai vu de Grafikart ce weekend.
+Lundi matin, démarrage en douceur, je mets à jour la VM, et je pose un regard distrait sur la doc concernant l'AJAX,  qui résume ce que j'ai vu de Grafikart ce weekend. Je m'attends à pouvoir en faire quelque chose avant midi, c'est l'objectif.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDQ2ODc0NCw5NzEwOTIxOCwyMDE5NT
-k2NDY2LDEyNDYyNTI0NzEsLTEyNzExODQ5NzMsMTc3MzA2NDI4
-NywtNzQ1OTY1ODgwLC0yMDkyMjAzMTM2XX0=
+eyJoaXN0b3J5IjpbLTEzOTM4MDk1NjAsOTcxMDkyMTgsMjAxOT
+U5NjQ2NiwxMjQ2MjUyNDcxLC0xMjcxMTg0OTczLDE3NzMwNjQy
+ODcsLTc0NTk2NTg4MCwtMjA5MjIwMzEzNl19
 -->
