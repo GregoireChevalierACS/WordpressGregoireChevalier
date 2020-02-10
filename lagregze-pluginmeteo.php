@@ -114,49 +114,60 @@ register_deactivation_hook( __FILE__, array($LagregzePluginMeteo, 'deactivate') 
 
 // ============================CONSTRUCTION HTML DU PLUGIN==============================================
 ?>
-
-<div class="containerPlugin">
+<button onclick="gestionBooleanAffichage()" class="boutonActivation"> ☼ </button>
+<div class="containerPlugin" id="Plugin">
 
 <div class="containerBoutons">
 <br>
 
 <p class=centered>Ceci est un plugin météo. Enfin, pas encore, mais j'y travaille.</p>
 
-<button class="bouton"> Date du jour : <?php echo $today_date;?></button>
-<br>
+<div class="containerBoutonsGestion">
+<button class="boutonGestion"> + </button><button class="boutonGestion"> - </button>
+</div>
 
-<button class="bouton"> Date de demain : <?php echo $tomorrow_date->format('d F Y');?></button>
-<br>
-
-<button class="bouton"> Date dans 2 jours : <?php echo $twodaysplus_date->format('d F Y');?></button>
-<br>
-
-<button class="bouton"> Date dans 3 jours : <?php echo $threedaysplus_date->format('d F Y');?></button>
-<br>
+<div class="container2">
 
 
-<?php
-
-
-foreach($user_language as $lang)
-{
-	if(in_array($lang, $languages))
-	{
-        $paysConcerne = str_replace($countryList, $countryName, $lang);
-        $langueParlee = str_replace($countryList, $countryLanguage, $lang);
-        ?>
-        <button class="bouton"> Vous parlez : <?php echo $langueParlee;?></button>
-        <button class="bouton"> Votre pays de localisation : <?php echo $paysConcerne;?></button>
-        
-<?php        break;
-	}else {
-        setlocale('en-US');
-    }
-}
-?>
-<button class="bouton">Température actuelle : </button>
-<br>
 <button class="bouton">Temps prévu : </button>
 <br>
+<button class="bouton">Température actuelle : </button>
+<br>    
+
+<div class="slideshow-container">
+<div class="slide">
+<button class="bouton"> Date du jour : <?php echo $today_date;?></button>
+</div>
+<div class="slide">
+<button class="bouton"> Date de demain : <?php echo $tomorrow_date->format('d F Y');?></button>
+</div>
+<div class="slide">
+<button class="bouton"> Date dans 2 jours : <?php echo $twodaysplus_date->format('d F Y');?></button>
+</div>
+<div class="slide">
+<button class="bouton"> Date dans 3 jours : <?php echo $threedaysplus_date->format('d F Y');?></button>
+</div>
+</div>
+<div class="dots">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+
+
+<br> 
+<button class="bouton"> Ville : <?php ?></button>
+<br>
+
+
+<div class="containerBoutonsDegres">
+<button class="boutonGestion"> °C </button><button class="boutonGestion"> °F </button>
+</div>
+
+
+
+
+
+</div>
 </div>
 </div>

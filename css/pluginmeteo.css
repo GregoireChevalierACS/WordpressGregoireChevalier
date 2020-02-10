@@ -3,7 +3,7 @@ width: fit-content;
 }
 
 .containerPlugin{
-    display: flex;
+    display: none;
 margin: 5vw 5vh;
 color: rgb(209, 202, 193);
 align-items: center;
@@ -14,10 +14,22 @@ position: fixed;
 .containerBoutons{
     display: flex;
     flex-direction: column;
-    height: auto;
-    width: auto;
+    height: 75vh;
+    width: 45vw;
     justify-content: center;
     background-color: rgb(65, 63, 55);
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 90%;
+    padding: 2%;
+    align-self: center;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .centered{
@@ -28,5 +40,53 @@ position: fixed;
 
 .bouton{
     color: red;
+    width: 90%;
+    margin: 0px 1vw;
 height: auto;
+}
+
+.boutonActivation{
+   /* background-color: aquamarine;*/
+   color: gold;
+   border-radius: 5px 5px 25px 25px;
+}
+
+.containerBoutonsGestion{
+    display: flex;
+    flex-direction: row;
+    width: 82%;
+    justify-content: space-evenly;
+    align-items: center;
+    align-self: center;
+    justify-self: center;
+}
+
+.boutonsGestion{
+    width: 32%;
+}
+
+.containerBoutonsDegres{
+    display: flex;
+    flex-direction: row;
+    width: 82%;
+    justify-content: space-evenly;
+    align-items: center;
+    align-self: center;
+    justify-self: center;
+    padding-top: 8%;
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column; 
+}
+
+.dots{
+    display: flex;
 }

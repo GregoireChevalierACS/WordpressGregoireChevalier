@@ -1,0 +1,32 @@
+<button class="bouton"> Date de demain : <?php echo $tomorrow_date->format('d F Y');?></button>
+<br>
+
+<button class="bouton"> Date dans 2 jours : <?php echo $twodaysplus_date->format('d F Y');?></button>
+<br>
+
+<button class="bouton"> Date dans 3 jours : <?php echo $threedaysplus_date->format('d F Y');?></button>
+<br>
+
+
+
+
+
+<?php
+
+foreach($user_language as $lang)
+{
+	if(in_array($lang, $languages))
+	{
+        $paysConcerne = str_replace($countryList, $countryName, $lang);
+        $langueParlee = str_replace($countryList, $countryLanguage, $lang);
+        ?>
+        <button class="bouton"> Vous parlez : <?php echo $langueParlee;?></button>
+        <button class="bouton"> Votre pays de localisation : <?php echo $paysConcerne;?></button>
+        
+<?php        break;
+	}else {
+        setlocale('en-US');
+    }
+}
+
+?>
