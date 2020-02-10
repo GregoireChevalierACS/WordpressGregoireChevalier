@@ -86,10 +86,10 @@ Premières requêtes effectuées. J'arrive maintenant à obtenir la température
 JSON = **JavaScript Object Notation**. C'est noté.
 Je me casse les dents à essayer de convertir le résultat d'une requête json en javascript. Et toute la doc que je trouve concerne le passage de javascript *vers* Json. C'est frustrant, mais peut-être que je prends le problème dans le mauvais sens? Si je définis une variable js, en utilisant JSON.parse, .... ?
 Je deviens chèvre. Mon essai de json parse, suivant **à la lettre** la doc mdn me renvoie "SyntaxError: JSON.parse: unexpected keyword at line 1".
-Comment j'en suis arrivé à m'embourber dans une connerie de la doc
+Comment j'en suis arrivé à m'embourber dans une connerie de la doc qui ne traite même pas le problème auquel je fais face depuis 2h+ ? J'ai l'impression de perdre mon temps. Et plus je passe de temps à essayer de comprendre et moins j'ai l'impression d'aller dans la bonne direction. Et plus je trouve que je perds mon temps. Tout ça pour qu'on 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTg5MjU4NiwtMTc3OTYzMTIyNCwtMT
+eyJoaXN0b3J5IjpbLTMxMDI1NDY5NiwtMTc3OTYzMTIyNCwtMT
 QwMDIzOTIyMSwtNTAwMDQzMDcyLDMwNDE5MDMsLTg5NjU1NTk1
 OSwxNTE0OTQwMTUwLDEwMjk3ODYzMzVdfQ==
 -->
