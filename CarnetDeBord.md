@@ -79,11 +79,12 @@ Jour 6
 
 Lundi matin, démarrage en douceur, je mets à jour la VM, et je pose un regard distrait sur la doc concernant l'AJAX,  qui résume ce que j'ai vu de Grafikart ce weekend. Je m'attends à pouvoir en faire quelque chose avant midi, c'est l'objectif.
 Après quelques recherches, je me suis posé la question : pourquoi est-ce que je veux utiliser AJAX ? La réponse, dans l'immédiat, c'est que je veux accéder à la position de l'utilisateur. Et pour ça j'ai pas besoin d'AJAX, mais juste d'une API. Donc le focus change sensiblement et je m'attelle à récupérer la position de l'utilisateur. De l'user. C'est plus rapide en anglais. C'est bien l'anglais. Quand c'est plus court. Seulement.Oui.
+Sauf que plot twist, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc0MzIyOTIsLTEzOTM4MDk1NjAsOT
-cxMDkyMTgsMjAxOTU5NjQ2NiwxMjQ2MjUyNDcxLC0xMjcxMTg0
-OTczLDE3NzMwNjQyODcsLTc0NTk2NTg4MCwtMjA5MjIwMzEzNl
-19
+eyJoaXN0b3J5IjpbNTc2MDQwNTUwLC0xOTY3NDMyMjkyLC0xMz
+kzODA5NTYwLDk3MTA5MjE4LDIwMTk1OTY0NjYsMTI0NjI1MjQ3
+MSwtMTI3MTE4NDk3MywxNzczMDY0Mjg3LC03NDU5NjU4ODAsLT
+IwOTIyMDMxMzZdfQ==
 -->
