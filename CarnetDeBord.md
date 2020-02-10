@@ -75,7 +75,7 @@ Le premier contact se fait en douceur, j'apprivoise la bête de façon détourn�
 Jour 6
 
  - Début de l'apprentissage de l'AJAX
- - s
+ - 
 
 Lundi matin, démarrage en douceur, je mets à jour la VM, et je pose un regard distrait sur la doc concernant l'AJAX,  qui résume ce que j'ai vu de Grafikart ce weekend. Je m'attends à pouvoir en faire quelque chose avant midi, c'est l'objectif.
 Après quelques recherches, je me suis posé la question : pourquoi est-ce que je veux utiliser AJAX ? La réponse, dans l'immédiat, c'est que je veux accéder à la position de l'utilisateur. Et pour ça j'ai pas besoin d'AJAX, mais juste d'une API. Donc le focus change sensiblement et je m'attelle à récupérer la position de l'utilisateur. De l'user. C'est plus rapide en anglais. C'est bien l'anglais. Quand c'est plus court. Seulement.Oui.
@@ -96,6 +96,6 @@ Je vais pas tout casser. Ou tout du moins je vais essayer.
 ...
 La solution m'est enfin apparue, c'est tout simple en fait ! Nan je déconne, j'ai bien été aidé sur un bout de logique qui permettait de lier les deux bouts ensemble : les infos de l'API et le Js.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjEwMTYyMDYsNjM5MjkwMDE3LC0xMj
-M3ODMzMDk3XX0=
+eyJoaXN0b3J5IjpbMjEzNDIxOTUyOSwtMTYyMTAxNjIwNiw2Mz
+kyOTAwMTcsLTEyMzc4MzMwOTddfQ==
 -->
