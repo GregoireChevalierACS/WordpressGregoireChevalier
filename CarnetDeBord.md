@@ -84,10 +84,10 @@ Avec les idées plus claires, je me suis dit que ça m'embête de passer encore 
 Je comprends mieux le côté Asynchrone maintenant que je vois comment marche le fetch...
 Premières requêtes effectuées. J'arrive maintenant à obtenir la température de la ville sélectionnée dans la console. Reste à savoir comment je la passe en variable et le tour est joué.
 JSON = **JavaScript Object Notation**. C'est noté.
-Je me casse les dents à essayer de convertir le 
+Je me casse les dents à essayer de convertir le résultat d'une requête json en javascript. Et toute la doc que je trouve concerne le passage de javascript *vers* Json. C'est frustrant, mais peut-être que je prends le problème dans le mauvais sens? Si je définis une va
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODU5Mzk1MCwtNTAwMDQzMDcyLDMwND
-E5MDMsLTg5NjU1NTk1OSwxNTE0OTQwMTUwLDEwMjk3ODYzMzVd
-fQ==
+eyJoaXN0b3J5IjpbNTA0MzQ5MzA3LC01MDAwNDMwNzIsMzA0MT
+kwMywtODk2NTU1OTU5LDE1MTQ5NDAxNTAsMTAyOTc4NjMzNV19
+
 -->
