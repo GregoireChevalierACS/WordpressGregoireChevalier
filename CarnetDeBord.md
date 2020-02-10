@@ -84,8 +84,10 @@ Avec les idées plus claires, je me suis dit que ça m'embête de passer encore 
 Je comprends mieux le côté Asynchrone maintenant que je vois comment marche le fetch...
 Premières requêtes effectuées. J'arrive maintenant à obtenir la température de la ville sélectionnée dans la console. Reste à savoir comment je la passe en variable et le tour est joué.
 JSON = **JavaScript Object Notation**. C'est noté.
+Je me casse les dents à essayer de convertir le 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDA0MzA3MiwzMDQxOTAzLC04OTY1NT
-U5NTksMTUxNDk0MDE1MCwxMDI5Nzg2MzM1XX0=
+eyJoaXN0b3J5IjpbMTgwODU5Mzk1MCwtNTAwMDQzMDcyLDMwND
+E5MDMsLTg5NjU1NTk1OSwxNTE0OTQwMTUwLDEwMjk3ODYzMzVd
+fQ==
 -->
