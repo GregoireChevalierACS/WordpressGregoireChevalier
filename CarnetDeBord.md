@@ -89,8 +89,9 @@ Je deviens chèvre. Mon essai de json parse, suivant **à la lettre** la doc mdn
 Comment j'en suis arrivé à m'embourber dans une connerie de la doc qui ne traite même pas le problème auquel je fais face depuis 2h+ ? J'ai l'impression de perdre mon temps. Et plus je passe de temps à essayer de comprendre et moins j'ai l'impression d'aller dans la bonne direction. Et plus je trouve que je perds mon temps. Tout ça pour qu'on me dise qu'en fait c'est tout simple et que je suis à deux doigts de faire ce que je veux depuis le début. C'est très irritant.
 Le problème que j'ai mentionné juste avant vient du fait que dans la déclaration :
 const json = '{"result":true, "count":42, "test":35}';
-je mettais des strings à la place de nombres. SAUF QUE la doc précisait "
+je mettais des strings à la place de nombres. SAUF QUE la doc précisait "... analyse une chaîne de caractères...". 
+Je vais pas m'énerver, promis. Je viens juste de perdre trois quarts d'heure à cause d'une tournure de phrase que  j'aurais mal compris.
+Je vais pas tout casser. Ou tout du moins je vais essayer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI5NzE0NjUsLTEyMzc4MzMwOTddfQ
-==
+eyJoaXN0b3J5IjpbLTUzMjYxMTE5OCwtMTIzNzgzMzA5N119
 -->
