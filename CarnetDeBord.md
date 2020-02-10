@@ -71,8 +71,13 @@ Ca pèle dehors. J'en ai encore les doigts engourdis, et je vais commencer la jo
 Je me bats actuellement contre wordpress qui passe outre mon css sur certains points.  À priori, ça viendrait du thème de la page. Retour à la case documentation. Puisqu'on peut gérer une partie du css depuis wordpress même, je vais arrêter de m’appesantir sur le sujet et passer à l'AJAX.
 Le premier contact se fait en douceur, j'apprivoise la bête de façon détournée pour pas (m')l'effrayer. J'ai trouvé sur le site https://www.seomix.fr/ajax-wordpress/ une méthode qui accompagne pas à pas, mais qui, ô hérésie, utilise allégrement jQuery comme si tout était normal. Heureusement, j'ai déjà la parade, je sais où trouver la conversion des fonctions jQuery/Js. Encore que c'est pas si grave d'utiliser Query, mais quitte à apprendre une nouvelle techno, j'aime autant essayer de maîtriser la chaîne du premier au dernier maillon. Même si ça prend plus de temps et d'énergie. Je suis plus un control freak, je le promets. Je travaille sur moi ^^'.
 
+10/2/2020
+Jour 6
+
+ - List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjI1MjQ3MSwtMTI3MTE4NDk3MywxNz
-czMDY0Mjg3LC03NDU5NjU4ODAsLTIwOTIyMDMxMzZdfQ==
+eyJoaXN0b3J5IjpbMjAxOTU5NjQ2NiwxMjQ2MjUyNDcxLC0xMj
+cxMTg0OTczLDE3NzMwNjQyODcsLTc0NTk2NTg4MCwtMjA5MjIw
+MzEzNl19
 -->
