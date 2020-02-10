@@ -87,7 +87,10 @@ JSON = **JavaScript Object Notation**. C'est noté.
 Je me casse les dents à essayer de convertir le résultat d'une requête json en javascript. Et toute la doc que je trouve concerne le passage de javascript *vers* Json. C'est frustrant, mais peut-être que je prends le problème dans le mauvais sens? Si je définis une variable js, en utilisant JSON.parse, .... ?
 Je deviens chèvre. Mon essai de json parse, suivant **à la lettre** la doc mdn me renvoie "SyntaxError: JSON.parse: unexpected keyword at line 1".
 Comment j'en suis arrivé à m'embourber dans une connerie de la doc qui ne traite même pas le problème auquel je fais face depuis 2h+ ? J'ai l'impression de perdre mon temps. Et plus je passe de temps à essayer de comprendre et moins j'ai l'impression d'aller dans la bonne direction. Et plus je trouve que je perds mon temps. Tout ça pour qu'on me dise qu'en fait c'est tout simple et que je suis à deux doigts de faire ce que je veux depuis le début. C'est très irritant.
-
+Le problème que j'ai mentionné juste avant vient du fait que dans la déclaration :
+const json = '{"result":true, "count":42, "test":35}';
+je mettais des strings à la place de nombres. SAUF QUE la doc précisait "
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc4MzMwOTddfQ==
+eyJoaXN0b3J5IjpbLTEzOTI5NzE0NjUsLTEyMzc4MzMwOTddfQ
+==
 -->
