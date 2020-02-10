@@ -80,8 +80,8 @@ Jour 6
 Lundi matin, démarrage en douceur, je mets à jour la VM, et je pose un regard distrait sur la doc concernant l'AJAX,  qui résume ce que j'ai vu de Grafikart ce weekend. Je m'attends à pouvoir en faire quelque chose avant midi, c'est l'objectif.
 Après quelques recherches, je me suis posé la question : pourquoi est-ce que je veux utiliser AJAX ? La réponse, dans l'immédiat, c'est que je veux accéder à la position de l'utilisateur. Et pour ça j'ai pas besoin d'AJAX, mais juste d'une API. Donc le focus change sensiblement et je m'attelle à récupérer la position de l'utilisateur. De l'user. C'est plus rapide en anglais. C'est bien l'anglais. Quand c'est plus court. Seulement.Oui.
 Sauf que plot twist, que renvoie l'API ? Du XML. XML, comme dans Asynchronous Javascript And Xml. Eh bah yes.... Je .... Je vais prendre une pause et on verra après ><'.
-
+Avec les idées plus claires, je me suis dit que ça m'embête de passer encore moult temps sur de la doc et que je veux arriver à un résultat rapidement. Alors, changement de technique, et tutos openweathermap.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTc4NjMzNV19
+eyJoaXN0b3J5IjpbMTUxNDk0MDE1MCwxMDI5Nzg2MzM1XX0=
 -->
