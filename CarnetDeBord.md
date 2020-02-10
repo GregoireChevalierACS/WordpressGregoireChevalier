@@ -83,7 +83,8 @@ Sauf que plot twist, que renvoie l'API ? Du XML. XML, comme dans Asynchronous Ja
 Avec les idées plus claires, je me suis dit que ça m'embête de passer encore moult temps sur de la doc et que je veux arriver à un résultat rapidement. Alors, changement de technique, et tutos openweathermap.
 Je comprends mieux le côté Asynchrone maintenant que je vois comment marche le fetch...
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjU1NTk1OSwxNTE0OTQwMTUwLDEwMj
-k3ODYzMzVdfQ==
+eyJoaXN0b3J5IjpbLTU2MzIzMTY4OSwtODk2NTU1OTU5LDE1MT
+Q5NDAxNTAsMTAyOTc4NjMzNV19
 -->
