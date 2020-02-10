@@ -77,10 +77,10 @@ Jour 6
  - Début de l'apprentissage de l'AJAX
  - s
 
-Lundi matin, démarrage en douceur
+Lundi matin, démarrage en douceur, je mets 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMDkyMTgsMjAxOTU5NjQ2NiwxMjQ2Mj
-UyNDcxLC0xMjcxMTg0OTczLDE3NzMwNjQyODcsLTc0NTk2NTg4
-MCwtMjA5MjIwMzEzNl19
+eyJoaXN0b3J5IjpbMzU2NDM5NDYsOTcxMDkyMTgsMjAxOTU5Nj
+Q2NiwxMjQ2MjUyNDcxLC0xMjcxMTg0OTczLDE3NzMwNjQyODcs
+LTc0NTk2NTg4MCwtMjA5MjIwMzEzNl19
 -->
