@@ -94,8 +94,8 @@ Je vais pas m'énerver, promis. Je viens juste de perdre trois quarts d'heure à
 `•̀益•́´
 Je vais pas tout casser. Ou tout du moins je vais essayer.
 ...
-La solution m'est enfin apparue, c'est tout simple en fait ! Nan je déconne, j'ai bien été aidé sur un bout de logique qui permettait de lier les deux bouts ensemble : l
+La solution m'est enfin apparue, c'est tout simple en fait ! Nan je déconne, j'ai bien été aidé sur un bout de logique qui permettait de lier les deux bouts ensemble : les infos de l'API et le Js.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Mzc5NTAxNCw2MzkyOTAwMTcsLTEyMz
-c4MzMwOTddfQ==
+eyJoaXN0b3J5IjpbLTE2MjEwMTYyMDYsNjM5MjkwMDE3LC0xMj
+M3ODMzMDk3XX0=
 -->
