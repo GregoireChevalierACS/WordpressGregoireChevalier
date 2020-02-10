@@ -91,7 +91,9 @@ Le problème que j'ai mentionné juste avant vient du fait que dans la déclarat
 const json = '{"result":true, "count":42, "test":35}';
 je mettais des strings à la place de nombres. SAUF QUE la doc précisait "... analyse une chaîne de caractères...". 
 Je vais pas m'énerver, promis. Je viens juste de perdre trois quarts d'heure à cause d'une tournure de phrase que  j'aurais mal compris.
+`•̀益•́´
 Je vais pas tout casser. Ou tout du moins je vais essayer.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjYxMTE5OCwtMTIzNzgzMzA5N119
+eyJoaXN0b3J5IjpbNjM5MjkwMDE3LC0xMjM3ODMzMDk3XX0=
 -->
