@@ -83,8 +83,9 @@ Sauf que plot twist, que renvoie l'API ? Du XML. XML, comme dans Asynchronous Ja
 Avec les idées plus claires, je me suis dit que ça m'embête de passer encore moult temps sur de la doc et que je veux arriver à un résultat rapidement. Alors, changement de technique, et tutos openweathermap.
 Je comprends mieux le côté Asynchrone maintenant que je vois comment marche le fetch...
 Premières requêtes effectuées. J'arrive maintenant à obtenir la température de la ville sélectionnée dans la console. Reste à savoir comment je la passe en variable et le tour est joué.
+JSON = **JavaScript Object Notation**. C'est noté.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MTkwMywtODk2NTU1OTU5LDE1MTQ5ND
-AxNTAsMTAyOTc4NjMzNV19
+eyJoaXN0b3J5IjpbLTUwMDA0MzA3MiwzMDQxOTAzLC04OTY1NT
+U5NTksMTUxNDk0MDE1MCwxMDI5Nzg2MzM1XX0=
 -->
