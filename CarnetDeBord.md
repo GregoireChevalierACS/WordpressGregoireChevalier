@@ -74,10 +74,13 @@ Le premier contact se fait en douceur, j'apprivoise la bête de façon détourn�
 10/2/2020
 Jour 6
 
- - List item
+ - Début de l'apprentissage de l'AJAX
+ - s
+
+Lundi matin, démarrage en 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTU5NjQ2NiwxMjQ2MjUyNDcxLC0xMj
-cxMTg0OTczLDE3NzMwNjQyODcsLTc0NTk2NTg4MCwtMjA5MjIw
-MzEzNl19
+eyJoaXN0b3J5IjpbMjkyNjA5MTU3LDIwMTk1OTY0NjYsMTI0Nj
+I1MjQ3MSwtMTI3MTE4NDk3MywxNzczMDY0Mjg3LC03NDU5NjU4
+ODAsLTIwOTIyMDMxMzZdfQ==
 -->
