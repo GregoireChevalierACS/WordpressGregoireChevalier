@@ -102,7 +102,10 @@ La solution m'est enfin apparue, c'est tout simple en fait ! Nan je déconne, j'
 
 11/2/2020
 Jour 7
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIxNTc0NTksMTk2NTc5MzAxNiwtMT
-I5NzY3NDQ0NF19
+eyJoaXN0b3J5IjpbNzc2Njk2MTE5LDE5NjU3OTMwMTYsLTEyOT
+c2NzQ0NDRdfQ==
 -->
