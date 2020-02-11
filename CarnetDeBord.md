@@ -99,6 +99,9 @@ Je vais pas m'énerver, promis. Je viens juste de perdre trois quarts d'heure à
 Je vais pas tout casser. Ou tout du moins je vais essayer.
 ...
 La solution m'est enfin apparue, c'est tout simple en fait ! Nan je déconne, j'ai bien été aidé sur un bout de logique qui permettait de lier les deux ensembles : infos de l'API et Js.
+
+Jour
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTc5MzAxNiwtMTI5NzY3NDQ0NF19
+eyJoaXN0b3J5IjpbLTIwMzAxMTI0MzAsMTk2NTc5MzAxNiwtMT
+I5NzY3NDQ0NF19
 -->
