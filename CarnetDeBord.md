@@ -115,9 +115,10 @@ Peut-être.
 Oui.
 Et voilà, vite et bien fait, le plugin affiche maintenant la température en °C ou °F selon le bouton sur lequel on clique. C'est bien le Js, hein ? Oui, mais c'est fini pour aujourd'hui, on va recommencer à se triturer le cerveau ⊙.☉
 Prochaine (grosse) étape : la création des pages d'ajout et de suppression de villes favorites. Ce qui sous entend de gérer les cookies, ou de faire des sessions avec login. Dans tous les cas c'est une nouvelle montagne qui me fait face :c
-
+Il va falloir que je me pose les bonnes questions si je veux des réponses constructives.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTA1MjY4MSwtMTU2ODg5NjIyOSwxNz
-E4OTY4NDY3LDE5NjU3OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MjAzNTQzNDUsMTg4OTA1MjY4MSwtMT
+U2ODg5NjIyOSwxNzE4OTY4NDY3LDE5NjU3OTMwMTYsLTEyOTc2
+NzQ0NDRdfQ==
 -->
