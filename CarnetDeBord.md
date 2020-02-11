@@ -103,9 +103,13 @@ La solution m'est enfin apparue, c'est tout simple en fait ! Nan je déconne, j'
 11/2/2020
 Jour 7
 
+ - Mise à jour des logiciels
+ - Poursuite de l'intégration des informations
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2Njk2MTE5LDE5NjU3OTMwMTYsLTEyOT
-c2NzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbMTcxODk2ODQ2NywxOTY1NzkzMDE2LC0xMj
+k3Njc0NDQ0XX0=
 -->
