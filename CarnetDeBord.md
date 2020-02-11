@@ -107,17 +107,17 @@ Jour 7
  - Réalisation de la fonctionnalité °C/°F
  - Améliorations d'ergonomie
  - Poursuite de l'intégration des informations
+ - Retour dans la doc
 
 Petite mise à niveau de la VM et apt-get update pour rester à jour et lancer la journée.
 J'ai bien envie de m'atteler à la conversion Celsius/Farenheit. Je vais faire ça pour me défroisser les neurones, et après je me relance dans l'AJAX.
 Peut-être.
 Oui.
 Et voilà, vite et bien fait, le plugin affiche maintenant la température en °C ou °F selon le bouton sur lequel on clique. C'est bien le Js, hein ? Oui, mais c'est fini pour aujourd'hui, on va recommencer à se triturer le cerveau ⊙.☉
-Prochaine (grosse) étape : la création des pages d'ajout et de suppression de villes favorites. Ce qui sous entend de gérer les cookies, ou de faire des sessions avec login. Dans tous les cas
-
+Prochaine (grosse) étape : la création des pages d'ajout et de suppression de villes favorites. Ce qui sous entend de gérer les cookies, ou de faire des sessions avec login. Dans tous les cas c'est une nouvelle montagne qui me fait face :c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4OTA3NjU2LC0xNTY4ODk2MjI5LDE3MT
-g5Njg0NjcsMTk2NTc5MzAxNiwtMTI5NzY3NDQ0NF19
+eyJoaXN0b3J5IjpbMTg4OTA1MjY4MSwtMTU2ODg5NjIyOSwxNz
+E4OTY4NDY3LDE5NjU3OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
 -->
