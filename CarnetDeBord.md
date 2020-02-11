@@ -110,9 +110,10 @@ Petite mise à niveau de la VM et apt-get update pour rester à jour et lancer l
 J'ai bien envie de m'atteler à la conversion Celsius/Farenheit. Je vais faire ça pour me défroisser les neurones, et après je me relance dans l'AJAX.
 Peut-être.
 Oui.
-Et voilà, vite et bien fait, le plugin affiche maintenant la température en °C ou °F selon 
+Et voilà, vite et bien fait, le plugin affiche maintenant la température en °C ou °F selon le bouton sur lequel on clique. C'est bien le Js, hein ? Oui mais c'est fini pour aujou
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM2MTQ5NzgsMTcxODk2ODQ2NywxOT
-Y1NzkzMDE2LC0xMjk3Njc0NDQ0XX0=
+eyJoaXN0b3J5IjpbMTEzMzk4NTc4LDE3MTg5Njg0NjcsMTk2NT
+c5MzAxNiwtMTI5NzY3NDQ0NF19
 -->
