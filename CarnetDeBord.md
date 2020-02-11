@@ -118,9 +118,9 @@ Prochaine (grosse) étape : la création des pages d'ajout et de suppression de 
 Il va falloir que je me pose les bonnes questions si je veux des réponses constructives.
 https://www.youtube.com/watch?v=GihQAC1I39Q
 Pour savoir quoi utiliser, ça me semble pas mal.
-Après recherches, je me focalise sur l'injection de données dans un cookie pour commencer. Je vais essayer de faire rentrer toutes les infos relatives à ce que renvoie l'API
+Après recherches, je me focalise sur l'injection de données dans un cookie pour commencer. Je vais essayer de faire rentrer toutes les infos relatives à ce que renvoie l'API dans un cookie au clic d'un des boutons de mon interface.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDc0Mzg2MCwtMTkyMDM1NDM0NSwxOD
-g5MDUyNjgxLC0xNTY4ODk2MjI5LDE3MTg5Njg0NjcsMTk2NTc5
-MzAxNiwtMTI5NzY3NDQ0NF19
+eyJoaXN0b3J5IjpbLTE0NTc1MTEyODYsLTE5MjAzNTQzNDUsMT
+g4OTA1MjY4MSwtMTU2ODg5NjIyOSwxNzE4OTY4NDY3LDE5NjU3
+OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
 -->
