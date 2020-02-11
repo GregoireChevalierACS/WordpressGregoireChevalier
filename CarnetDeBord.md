@@ -109,9 +109,9 @@ Jour 7
 Petite mise à niveau de la VM et apt-get update pour rester à jour et lancer la journée.
 J'ai bien envie de m'atteler à la conversion Celsius/Farenheit. Je vais faire ça pour me défroisser les neurones, et après je me relance dans l'AJAX.
 Peut-être.
-
+Oui.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgzMDkwNzIsMTcxODk2ODQ2NywxOT
-Y1NzkzMDE2LC0xMjk3Njc0NDQ0XX0=
+eyJoaXN0b3J5IjpbMTE2MDg0NjQzNywxNzE4OTY4NDY3LDE5Nj
+U3OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
 -->
