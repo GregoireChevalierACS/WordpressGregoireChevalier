@@ -106,10 +106,10 @@ Jour 7
  - Mise à jour des logiciels
  - Poursuite de l'intégration des informations
 
-
+Petite mise à niveau de la VM et apt-get update pour rester à jour et lancer la journée.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODk2ODQ2NywxOTY1NzkzMDE2LC0xMj
-k3Njc0NDQ0XX0=
+eyJoaXN0b3J5IjpbNjA0NDgwMSwxNzE4OTY4NDY3LDE5NjU3OT
+MwMTYsLTEyOTc2NzQ0NDRdfQ==
 -->
