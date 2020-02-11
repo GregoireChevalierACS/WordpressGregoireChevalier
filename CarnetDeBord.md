@@ -105,7 +105,7 @@ Jour 7
 
  - Mise à jour des logiciels
  - Réalisation de la fonctionnalité °C/°F
- - 
+ - Améliorations d'ergonomie
  - Poursuite de l'intégration des informations
 
 Petite mise à niveau de la VM et apt-get update pour rester à jour et lancer la journée.
@@ -118,6 +118,6 @@ Et voilà, vite et bien fait, le plugin affiche maintenant la température en °
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIwMzczNTYsMTcxODk2ODQ2NywxOT
+eyJoaXN0b3J5IjpbLTE1Njg4OTYyMjksMTcxODk2ODQ2NywxOT
 Y1NzkzMDE2LC0xMjk3Njc0NDQ0XX0=
 -->
