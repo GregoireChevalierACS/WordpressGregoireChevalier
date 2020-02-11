@@ -113,11 +113,11 @@ J'ai bien envie de m'atteler à la conversion Celsius/Farenheit. Je vais faire �
 Peut-être.
 Oui.
 Et voilà, vite et bien fait, le plugin affiche maintenant la température en °C ou °F selon le bouton sur lequel on clique. C'est bien le Js, hein ? Oui, mais c'est fini pour aujourd'hui, on va recommencer à se triturer le cerveau ⊙.☉
-Prochaine étape : 
+Prochaine (grosse) étape : la création des pages d'ajout et de suppression de villes favorites. Ce qui sous entend
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDgxMTUwMywtMTU2ODg5NjIyOSwxNz
+eyJoaXN0b3J5IjpbMTg4OTM0NDM4MiwtMTU2ODg5NjIyOSwxNz
 E4OTY4NDY3LDE5NjU3OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
 -->
