@@ -100,8 +100,9 @@ Je vais pas tout casser. Ou tout du moins je vais essayer.
 ...
 La solution m'est enfin apparue, c'est tout simple en fait ! Nan je déconne, j'ai bien été aidé sur un bout de logique qui permettait de lier les deux ensembles : infos de l'API et Js.
 
-Jour
+11/2/2020
+Jour 7
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAxMTI0MzAsMTk2NTc5MzAxNiwtMT
+eyJoaXN0b3J5IjpbLTEwMzIxNTc0NTksMTk2NTc5MzAxNiwtMT
 I5NzY3NDQ0NF19
 -->
