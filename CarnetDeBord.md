@@ -107,9 +107,11 @@ Jour 7
  - Poursuite de l'intégration des informations
 
 Petite mise à niveau de la VM et apt-get update pour rester à jour et lancer la journée.
+J'ai bien envie de m'atteler à la conversion Celsius/Farenheit. Je vais faire ça pour me défroisser les neurones, et après je me relance dans l'AJAX.
+Peut-être.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0NDgwMSwxNzE4OTY4NDY3LDE5NjU3OT
-MwMTYsLTEyOTc2NzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbLTE4MTgzMDkwNzIsMTcxODk2ODQ2NywxOT
+Y1NzkzMDE2LC0xMjk3Njc0NDQ0XX0=
 -->
