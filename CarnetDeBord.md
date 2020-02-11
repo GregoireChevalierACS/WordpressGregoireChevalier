@@ -104,6 +104,7 @@ La solution m'est enfin apparue, c'est tout simple en fait ! Nan je déconne, j'
 Jour 7
 
  - Mise à jour des logiciels
+ - Réalisation de la fonctionnalité °C/°F
  - Poursuite de l'intégration des informations
 
 Petite mise à niveau de la VM et apt-get update pour rester à jour et lancer la journée.
@@ -116,6 +117,6 @@ Et voilà, vite et bien fait, le plugin affiche maintenant la température en °
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY5OTA3NDQsMTcxODk2ODQ2NywxOT
-Y1NzkzMDE2LC0xMjk3Njc0NDQ0XX0=
+eyJoaXN0b3J5IjpbLTc4MzQ5NDI5OSwxNzE4OTY4NDY3LDE5Nj
+U3OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
 -->
