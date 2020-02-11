@@ -117,9 +117,10 @@ Et voilà, vite et bien fait, le plugin affiche maintenant la température en °
 Prochaine (grosse) étape : la création des pages d'ajout et de suppression de villes favorites. Ce qui sous entend de gérer les cookies, ou de faire des sessions avec login. Dans tous les cas c'est une nouvelle montagne qui me fait face :c
 Il va falloir que je me pose les bonnes questions si je veux des réponses constructives.
 https://www.youtube.com/watch?v=GihQAC1I39Q
-Pour
+Pour savoir quoi utiliser, ça me semble pas mal.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzQyMzAwOSwtMTkyMDM1NDM0NSwxOD
-g5MDUyNjgxLC0xNTY4ODk2MjI5LDE3MTg5Njg0NjcsMTk2NTc5
-MzAxNiwtMTI5NzY3NDQ0NF19
+eyJoaXN0b3J5IjpbLTE1Nzk5MzQ4ODYsLTE5MjAzNTQzNDUsMT
+g4OTA1MjY4MSwtMTU2ODg5NjIyOSwxNzE4OTY4NDY3LDE5NjU3
+OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
 -->
