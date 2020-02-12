@@ -119,9 +119,10 @@ Il va falloir que je me pose les bonnes questions si je veux des réponses const
 https://www.youtube.com/watch?v=GihQAC1I39Q
 Pour savoir quoi utiliser, ça me semble pas mal.
 Après recherches, je me focalise sur l'injection de données dans un cookie pour commencer. Je vais essayer de faire rentrer toutes les infos relatives à ce que renvoie l'API dans un cookie au clic d'un des boutons de mon interface.
-Et c'est un (demi) succès, voilà ce q
+Et c'est un (demi) succès, voilà ce que ça renvoie : Strasbourg :"7.6%B0C=scattered%20clouds"
+On verra demain pour le formattage :)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc4ODM0NDgsLTE0NTc1MTEyODYsLT
-E5MjAzNTQzNDUsMTg4OTA1MjY4MSwtMTU2ODg5NjIyOSwxNzE4
-OTY4NDY3LDE5NjU3OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbMTIxNzc3MzcsLTE0NTc1MTEyODYsLTE5Mj
+AzNTQzNDUsMTg4OTA1MjY4MSwtMTU2ODg5NjIyOSwxNzE4OTY4
+NDY3LDE5NjU3OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
 -->
