@@ -127,6 +127,7 @@ On verra demain pour le formattage :)
 Jour 8
 
  - À la poursuite du cookie mystérieux
+ - Les ingrédients d'un bon cookie 
  - d
 
 Reprise de la création d'un cookie au clic, et tentatives d'adaptation au contexte. La doc diffère de mon projet parce qu'elle définit une date d'expiration dudit cookie en dur et je vais avoir besoin de changer ça...
@@ -138,8 +139,9 @@ Maintenant il faut que j'intègre ça au cookie.
 Hm, le cookie garde l'expiration à la session malgré le "expires=" + date, sachant que date est définie comme j+5
 En fait "expires=" doit s'écrire ";expires=", sinon ça ne marche pas et la date d'expiration est set par défaut sur Session. ¯_(ツ)_/¯
 L'inconvénient de travailler sur les cookies, c'est que ça donne faim.
+Le cookie créé, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg1MTExODUsMTQ1MTIzMzQyNCwtNj
-A4MjE3MDM4XX0=
+eyJoaXN0b3J5IjpbNDg0MTY0ODk5LC0xODI4NTExMTg1LDE0NT
+EyMzM0MjQsLTYwODIxNzAzOF19
 -->
