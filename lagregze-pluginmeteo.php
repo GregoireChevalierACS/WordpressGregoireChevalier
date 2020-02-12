@@ -116,58 +116,51 @@ register_deactivation_hook( __FILE__, array($LagregzePluginMeteo, 'deactivate') 
 ?>
 <button onclick="gestionBooleanAffichage()" class="boutonActivation"> ☼ </button>
 <div class="containerPlugin" id="Plugin">
+        <button onclick="gestionBooleanAffichage()" class="boutonPagePrec"> ← </button>
 
-<div class="containerBoutons">
-<br>
+    <div class="containerBoutons">
+    <br>
 
-<p class=centered>Ceci est un plugin météo. Enfin, pas encore, mais j'y travaille.</p>
+    <p class=centered>Ceci est un plugin météo. Enfin, pas encore, mais j'y travaille.</p>
+    <div class="containerContenuPrincipal">
+        <div class="container2">
+        <div class="containerBoutonsGestion">
+        <button onclick="testCookieStorage()" class="boutonGestion"> + </button><button class="boutonGestion"> - </button>
+        </div>
+        <div class="slide">
+        <br> 
+        <div><p id="ville"></p> <?php ?></div>
+        <br>
+        <button class="display">Temps prévu : <p id="weather" class="display"></button>
+        <br>
+        <button class="display">Température actuelle : <p id="temperature" class="display"> </p></button>
+        <br>    
 
-<div class="containerBoutonsGestion">
-<button class="boutonGestion"> + </button><button class="boutonGestion"> - </button>
-</div>
+        <div class="slideshow-container">
 
-<div class="container2">
+        <button class="display"> <?php echo $today_date;?></button>
 
+        </div>
 
-<button class="bouton">Temps prévu : </button>
-<br>
-<button class="bouton">Température actuelle : </button>
-<br>    
-
-<div class="slideshow-container">
-<div class="slide">
-<button class="bouton"> Date du jour : <?php echo $today_date;?></button>
-</div>
-<div class="slide">
-<button class="bouton"> Date de demain : <?php echo $tomorrow_date->format('d F Y');?></button>
-</div>
-<div class="slide">
-<button class="bouton"> Date dans 2 jours : <?php echo $twodaysplus_date->format('d F Y');?></button>
-</div>
-<div class="slide">
-<button class="bouton"> Date dans 3 jours : <?php echo $threedaysplus_date->format('d F Y');?></button>
-</div>
-</div>
-<div class="dots">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div>
-
-
-<br> 
-<button class="bouton"> Ville : <?php ?></button>
-<br>
-
-
-<div class="containerBoutonsDegres">
-<button class="boutonGestion"> °C </button><button class="boutonGestion"> °F </button>
-</div>
+        </div>
+        <!-- <div class="dots">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        </div> -->
 
 
 
 
+        <div class="containerBoutonsDegres">
+        <button onclick="temperatureCelsius()"  class="boutonGestion"> °C </button><button onclick="temperatureFarenheit()" class="boutonGestion"> °F </button>
+        </div>
 
-</div>
-</div>
+
+
+
+        </div>
+        </div>
+    </div>
+    <button onclick="gestionBooleanAffichage()" class="boutonPageNext"> → </button>
 </div>
