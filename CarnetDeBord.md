@@ -136,8 +136,8 @@ date.setDate(date.getDate() + 5);
 Et voilà, j'ai la date de dans 5 jours. C'est beau Js quand même.
 Maintenant il faut que j'intègre ça au cookie.
 Hm, le cookie garde l'expiration à la session malgré le "expires=" + date, sachant que date est définie comme j+5
-En fait "expires=" doit s'écrire ";expires=", sinon ça ne marche pas et la date d'expiration est set par défaut sur Session. 
+En fait "expires=" doit s'écrire ";expires=", sinon ça ne marche pas et la date d'expiration est set par défaut sur Session. ¯_(ツ)_/¯
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODIxNzAzOF19
+eyJoaXN0b3J5IjpbMTQ1MTIzMzQyNCwtNjA4MjE3MDM4XX0=
 -->
