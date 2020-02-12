@@ -121,8 +121,15 @@ Pour savoir quoi utiliser, ça me semble pas mal.
 Après recherches, je me focalise sur l'injection de données dans un cookie pour commencer. Je vais essayer de faire rentrer toutes les infos relatives à ce que renvoie l'API dans un cookie au clic d'un des boutons de mon interface.
 Et c'est un (demi) succès, voilà ce que ça renvoie : Strasbourg :"7.6%B0C=scattered%20clouds"
 On verra demain pour le formattage :)
+
+12/2/2020
+Jour 8
+
+ - Poursuite 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzc3MzcsLTE0NTc1MTEyODYsLTE5Mj
-AzNTQzNDUsMTg4OTA1MjY4MSwtMTU2ODg5NjIyOSwxNzE4OTY4
-NDY3LDE5NjU3OTMwMTYsLTEyOTc2NzQ0NDRdfQ==
+eyJoaXN0b3J5IjpbMTkzNjYzODgwMywxMjE3NzczNywtMTQ1Nz
+UxMTI4NiwtMTkyMDM1NDM0NSwxODg5MDUyNjgxLC0xNTY4ODk2
+MjI5LDE3MTg5Njg0NjcsMTk2NTc5MzAxNiwtMTI5NzY3NDQ0NF
+19
 -->
