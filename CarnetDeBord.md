@@ -122,6 +122,7 @@ Après recherches, je me focalise sur l'injection de données dans un cookie pou
 Et c'est un (demi) succès, voilà ce que ça renvoie : Strasbourg :"7.6%B0C=scattered%20clouds"
 On verra demain pour le formattage :)
 
+
 12/2/2020
 Jour 8
 
@@ -132,8 +133,5 @@ Reprise de la création d'un cookie au clic, et tentatives d'adaptation au conte
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MDY1OTk1LDEyMTc3NzM3LC0xNDU3NT
-ExMjg2LC0xOTIwMzU0MzQ1LDE4ODkwNTI2ODEsLTE1Njg4OTYy
-MjksMTcxODk2ODQ2NywxOTY1NzkzMDE2LC0xMjk3Njc0NDQ0XX
-0=
+eyJoaXN0b3J5IjpbODIwNjk5NDVdfQ==
 -->
