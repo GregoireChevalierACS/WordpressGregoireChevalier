@@ -140,8 +140,10 @@ Hm, le cookie garde l'expiration à la session malgré le "expires=" + date, sac
 En fait "expires=" doit s'écrire ";expires=", sinon ça ne marche pas et la date d'expiration est set par défaut sur Session. ¯_(ツ)_/¯
 L'inconvénient de travailler sur les cookies, c'est que ça donne faim.
 Le cookie est créé. Les ingrédients ; nom de la ville, température, temps prévu, sont biologiques et garantis sans gluten et cuits au feu de bois selon la tradition. Le problème, c'est qu'une fois le cookie cuit, comment faire pour récupérer les ingrédients séparément ? Stocker chaque ingrédient dans une variable propre pour y accéder ailleurs ? Testons.
-![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)Je rencontre le souci suivant, il va falloir gérer la création et la lecture de 
+![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)Je rencontre le souci suivant, il va falloir gérer la création et la lecture de cookies selon la ville sélectionnée. Donc autant que je fasse le carousel qui display les différents presets de l'user, et je verrai ça après.
+
+Yaaaaay on a dépassé les 10 000 caractères
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTI1NzM3MCwxODM3ODAzOTAwXX0=
+eyJoaXN0b3J5IjpbLTY1NjY4ODMyNywxODM3ODAzOTAwXX0=
 -->
