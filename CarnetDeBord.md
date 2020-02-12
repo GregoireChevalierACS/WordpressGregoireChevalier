@@ -140,8 +140,8 @@ Hm, le cookie garde l'expiration à la session malgré le "expires=" + date, sac
 En fait "expires=" doit s'écrire ";expires=", sinon ça ne marche pas et la date d'expiration est set par défaut sur Session. ¯_(ツ)_/¯
 L'inconvénient de travailler sur les cookies, c'est que ça donne faim.
 Le cookie est créé. Les ingrédients ; nom de la ville, température, temps prévu, sont biologiques et garantis sans gluten et cuits au feu de bois selon la tradition. Le problème, c'est qu'une fois le cookie cuit, comment faire pour récupérer les ingrédients séparément ? Stocker chaque ingrédient dans une variable propre pour y accéder ailleurs ? Testons.
-![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)
+![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)Je rencontre le souci suivant, il va falloir gérer la création et la lecture de 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzgwMzkwMF19
+eyJoaXN0b3J5IjpbMTExOTI1NzM3MCwxODM3ODAzOTAwXX0=
 -->
