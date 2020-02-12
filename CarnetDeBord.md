@@ -125,11 +125,15 @@ On verra demain pour le formattage :)
 12/2/2020
 Jour 8
 
- - Poursuite 
+ - À la poursuite du cookie mystérieux
+ - d
+
+Reprise de la création d'un cookie au clic, et tentatives d'adaptation au contexte. La doc diffère de mon projet parce qu'elle définit une date d'expiration dudit cookie en dur et je vais avoir besoin de changer ça...
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjYzODgwMywxMjE3NzczNywtMTQ1Nz
-UxMTI4NiwtMTkyMDM1NDM0NSwxODg5MDUyNjgxLC0xNTY4ODk2
-MjI5LDE3MTg5Njg0NjcsMTk2NTc5MzAxNiwtMTI5NzY3NDQ0NF
-19
+eyJoaXN0b3J5IjpbMzQ2MDY1OTk1LDEyMTc3NzM3LC0xNDU3NT
+ExMjg2LC0xOTIwMzU0MzQ1LDE4ODkwNTI2ODEsLTE1Njg4OTYy
+MjksMTcxODk2ODQ2NywxOTY1NzkzMDE2LC0xMjk3Njc0NDQ0XX
+0=
 -->
