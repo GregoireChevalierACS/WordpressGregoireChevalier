@@ -130,8 +130,10 @@ Jour 8
  - d
 
 Reprise de la création d'un cookie au clic, et tentatives d'adaptation au contexte. La doc diffère de mon projet parce qu'elle définit une date d'expiration dudit cookie en dur et je vais avoir besoin de changer ça...
-
-
+let  today = new  Date();
+const  date = new  Date(today);
+date.setDate(date.getDate() + 5);
+Et voilà, le cookie dure 5 jours. C'est beau Js quand même.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNjk5NDVdfQ==
+eyJoaXN0b3J5IjpbMTIzNTMxMjkwMiw4MjA2OTk0NV19
 -->
