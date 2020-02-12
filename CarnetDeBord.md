@@ -143,6 +143,5 @@ Le cookie est créé. Les ingrédients ; nom de la ville, température, temps pr
 ![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzgwMzkwMCw0ODQxNjQ4OTksLTE4Mj
-g1MTExODUsMTQ1MTIzMzQyNCwtNjA4MjE3MDM4XX0=
+eyJoaXN0b3J5IjpbMTgzNzgwMzkwMF19
 -->
