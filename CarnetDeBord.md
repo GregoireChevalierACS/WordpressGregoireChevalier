@@ -139,9 +139,10 @@ Maintenant il faut que j'intègre ça au cookie.
 Hm, le cookie garde l'expiration à la session malgré le "expires=" + date, sachant que date est définie comme j+5
 En fait "expires=" doit s'écrire ";expires=", sinon ça ne marche pas et la date d'expiration est set par défaut sur Session. ¯_(ツ)_/¯
 L'inconvénient de travailler sur les cookies, c'est que ça donne faim.
-Le cookie est créé. Les ingrédients ; nom de la ville, température, temps prévu, sont biologiques et garantis sans gluten et cuits au feu de bois selon la tradition. Le problème, c'est qu'une fois le cookie cuit, comment faire pour récupérer les ingrédients séparément ? Stocker chaque ingrédient dans une variable propre pour y accéder ailleurs ? Teston
+Le cookie est créé. Les ingrédients ; nom de la ville, température, temps prévu, sont biologiques et garantis sans gluten et cuits au feu de bois selon la tradition. Le problème, c'est qu'une fois le cookie cuit, comment faire pour récupérer les ingrédients séparément ? Stocker chaque ingrédient dans une variable propre pour y accéder ailleurs ? Testons.
+![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMTgzNTMsNDg0MTY0ODk5LC0xODI4NT
-ExMTg1LDE0NTEyMzM0MjQsLTYwODIxNzAzOF19
+eyJoaXN0b3J5IjpbMTgzNzgwMzkwMCw0ODQxNjQ4OTksLTE4Mj
+g1MTExODUsMTQ1MTIzMzQyNCwtNjA4MjE3MDM4XX0=
 -->
