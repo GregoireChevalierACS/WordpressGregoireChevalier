@@ -134,6 +134,7 @@ let  today = new  Date();
 const  date = new  Date(today);
 date.setDate(date.getDate() + 5);
 Et voilà, le cookie dure 5 jours. C'est beau Js quand même.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTMxMjkwMiw4MjA2OTk0NV19
+eyJoaXN0b3J5IjpbLTUzNjY1NjQ2MCw4MjA2OTk0NV19
 -->
