@@ -127,11 +127,42 @@ On verra demain pour le formattage :)
 Jour 8
 
  - À la poursuite du cookie mystérieux
+ - Les ingrédients d'un bon cookie 
  - d
 
 Reprise de la création d'un cookie au clic, et tentatives d'adaptation au contexte. La doc diffère de mon projet parce qu'elle définit une date d'expiration dudit cookie en dur et je vais avoir besoin de changer ça...
+let  today = new  Date();
+const  date = new  Date(today);
+date.setDate(date.getDate() + 5);
+Et voilà, j'ai la date de dans 5 jours. C'est beau Js quand même.
+Maintenant il faut que j'intègre ça au cookie.
+Hm, le cookie garde l'expiration à la session malgré le "expires=" + date, sachant que date est définie comme j+5
+En fait "expires=" doit s'écrire ";expires=", sinon ça ne marche pas et la date d'expiration est set par défaut sur Session. ¯_(ツ)_/¯
+L'inconvénient de travailler sur les cookies, c'est que ça donne faim.
+Le cookie est créé. Les ingrédients ; nom de la ville, température, temps prévu, sont biologiques et garantis sans gluten et cuits au feu de bois selon la tradition. Le problème, c'est qu'une fois le cookie cuit, comment faire pour récupérer les ingrédients séparément ? Stocker chaque ingrédient dans une variable propre pour y accéder ailleurs ? Testons.
+![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)Je rencontre le souci suivant, il va falloir gérer la création et la lecture de cookies selon la ville sélectionnée. Donc autant que je fasse le carousel qui display les différents presets de l'user, et je verrai ça après.
 
+Yaaaaay on a dépassé les 10 000 caractères
+La fin de la journée s'est faite sur une introduction à symphony via un document explicatif sur le Modèle Conceptuel de Données.
+
+
+Jour 9
+13/2/2020
+
+ - Tentatives de suppression du cookie
+ - Finalisation du carousel
+
+Bon, pour commencer la journée, on a été laissé en autonomie, et l'ambiance est, pour le moins ... décontractée. Oui.
+Après un rapide coup d'oeil au plugin, je décide de faire deux choses ce matin, avant midi dans l'idéal. Il s'agit de supprimer le cookie créé la veille au clic du bouton -, et de faire le carousel qui va afficher les différentes villes.
+Et j'ai enfin un visuel qui s'approche de quelque chose de responsive. Win!
+Bon point : J'ai deux slides. Dont une qui a les résultats simulés en dur, mais tout de même.
+Mauvais point : Il semblerait que ça crée un conflit qui empêche la fonction qui change l'affichage des degrés de °C à °F et inversement de fonctionner Oo .
+Woops.
+Après réflexion je me suis rendu compte que j'ai stocké la température et le temps dans le cookie. Ce qui n'a aucun intérêt : il faut sauvegarder la ville et éventuellement l'IP de l'user !
+Ce que je peux être distrait...
+Allez, on repasse sur l'étude du MCD.
+À demain :p
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNjk5NDVdfQ==
+eyJoaXN0b3J5IjpbMzA4MjQ0OTNdfQ==
 -->
