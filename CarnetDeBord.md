@@ -143,7 +143,8 @@ Le cookie est créé. Les ingrédients ; nom de la ville, température, temps pr
 ![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)![Gemoji image for :cookie](https://emoji.fileformat.info/gemoji/cookie.png)Je rencontre le souci suivant, il va falloir gérer la création et la lecture de cookies selon la ville sélectionnée. Donc autant que je fasse le carousel qui display les différents presets de l'user, et je verrai ça après.
 
 Yaaaaay on a dépassé les 10 000 caractères
-
+La fin de la journée s'est faite sur une introduction à symphony via 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjY4ODMyNywxODM3ODAzOTAwXX0=
+eyJoaXN0b3J5IjpbMjAyMjY4Mzc5NSwtNjU2Njg4MzI3LDE4Mz
+c4MDM5MDBdfQ==
 -->
