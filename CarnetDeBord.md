@@ -164,6 +164,5 @@ Allez, on repasse sur l'étude du MCD.
 À demain :p
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MjQ0OTMsMTY3MDI5MjMyNCwtNjA0Mj
-Q0Mjk5XX0=
+eyJoaXN0b3J5IjpbMzA4MjQ0OTNdfQ==
 -->
