@@ -155,7 +155,8 @@ Jour 9
 Bon, pour commencer la journée, on a été laissé en autonomie, et l'ambiance est, pour le moins ... décontractée. Oui.
 Après un rapide coup d'oeil au plugin, je décide de faire deux choses ce matin, avant midi dans l'idéal. Il s'agit de supprimer le cookie créé la veille au clic du bouton -, et de faire le carousel qui va afficher les différentes villes.
 Et j'ai enfin un visuel qui s'approche de quelque chose de responsive. Win!
-
+Bon point : J'ai deux slides. Dont une qui a les résultats simulés en dur, mais tout de même.
+Mauvais point : Il sem
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzY1OTA3OCwtNjA0MjQ0Mjk5XX0=
+eyJoaXN0b3J5IjpbLTU3NTM2NzU4NCwtNjA0MjQ0Mjk5XX0=
 -->
