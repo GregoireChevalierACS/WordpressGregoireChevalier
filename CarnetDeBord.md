@@ -158,8 +158,12 @@ Et j'ai enfin un visuel qui s'approche de quelque chose de responsive. Win!
 Bon point : J'ai deux slides. Dont une qui a les résultats simulés en dur, mais tout de même.
 Mauvais point : Il semblerait que ça crée un conflit qui empêche la fonction qui change l'affichage des degrés de °C à °F et inversement de fonctionner Oo .
 Woops.
-Après réflexion je me suis rendu compte que j'ai stocké la température et le 
+Après réflexion je me suis rendu compte que j'ai stocké la température et le temps dans le cookie. Ce qui n'a aucun intérêt : il faut sauvegarder la ville et éventuellement l'IP de l'user !
+Ce que je peux être distrait...
+Allez, on repasse sur l'étude du MCD.
+À demain :p
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxODYyOTI1LDE2NzAyOTIzMjQsLTYwND
-I0NDI5OV19
+eyJoaXN0b3J5IjpbMzA4MjQ0OTMsMTY3MDI5MjMyNCwtNjA0Mj
+Q0Mjk5XX0=
 -->
