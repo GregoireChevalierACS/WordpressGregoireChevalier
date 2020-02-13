@@ -149,13 +149,13 @@ La fin de la journée s'est faite sur une introduction à symphony via un docume
 Jour 9
 13/2/2020
 
- - dd
- - dd
+ - Tentatives de suppression du cookie
+ - Création
 
 Bon, pour commencer la journée, on a été laissé en autonomie, et l'ambiance est, pour le moins ... décontractée. Oui.
-Après un rapide coup d'oeil au plugin, je décide 
+Après un rapide coup d'oeil au plugin, je décide de faire deux choses ce matin, avant midi dans l'idéal. Il s'agit de supprimer le cookie créé la veille au clic du bouton -, et de faire le carousel qui va afficher les différentes villes.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjQxMCwtNjU2Njg4MzI3LDE4Mzc4MD
-M5MDBdfQ==
+eyJoaXN0b3J5IjpbMTA4NDE0NTk4MiwtNjU2Njg4MzI3LDE4Mz
+c4MDM5MDBdfQ==
 -->
