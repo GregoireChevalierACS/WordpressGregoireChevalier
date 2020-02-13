@@ -116,7 +116,7 @@ register_deactivation_hook( __FILE__, array($LagregzePluginMeteo, 'deactivate') 
 ?>
 <button onclick="gestionBooleanAffichage()" class="boutonActivation"> ☼ </button>
 <div class="containerPlugin" id="Plugin">
-        <button onclick="gestionBooleanAffichage()" class="boutonPagePrec"> ← </button>
+        <button onclick="plusSlides(-1)" class="boutonPagePrec"> ← </button>
 
     <div class="containerBoutons">
     <br>
@@ -126,41 +126,49 @@ register_deactivation_hook( __FILE__, array($LagregzePluginMeteo, 'deactivate') 
         <div class="container2">
         <div class="containerBoutonsGestion">
         <button onclick="testCookieStorage()" class="boutonGestion"> + </button><button class="boutonGestion"> - </button>
-        </div>
+    </div>
         <div class="slide">
-        <br> 
-        <div><p id="ville"></p> <?php ?></div>
-        <br>
-        <button class="display">Temps prévu : <p id="weather" class="display"></button>
-        <br>
-        <button class="display">Température actuelle : <p id="temperature" class="display"> </p></button>
-        <br>    
+            <br> 
+            <div class="fullLargeur"><p id="ville"></p> <?php ?></div>
+            <br>
+            <button class="display">Temps prévu : <p id="weather" class="display"></button>
+            <br>
+            <button class="display">Température actuelle : <p id="temperature" class="display"> </p></button>
+            <br>    
 
-        <div class="slideshow-container">
+            <button class="display"> <?php echo $today_date;?></button>
 
-        <button class="display"> <?php echo $today_date;?></button>
+            <div class="containerBoutonsDegres">
+            <button onclick="temperatureCelsius()"  class="boutonGestion"> °C </button><button onclick="temperatureFarenheit()" class="boutonGestion"> °F </button>
+            </div>
+         </div>
 
-        </div>
+         <div class="slide">
+            <br> 
+            <div class="fullLargeur"><p>Paris</p> <?php ?></div>
+            <br>
+            <button class="display">Temps prévu : Moche, comme d'hab</button>
+            <br>
+            <button class="display">Température actuelle : Bah ça caille de ouf </p></button>
+            <br>    
 
-        </div>
-        <!-- <div class="dots">
-        <span class="dot" onclick="currentSlide(1)"></span>
-        <span class="dot" onclick="currentSlide(2)"></span>
-        <span class="dot" onclick="currentSlide(3)"></span>
-        </div> -->
+            <button class="display"> <?php echo $today_date;?></button>
+
+            <div class="containerBoutonsDegres">
+            <button onclick="temperatureCelsius()"  class="boutonGestion"> °C </button><button onclick="temperatureFarenheit()" class="boutonGestion"> °F </button>
+            </div>
+         </div>
 
 
-
-
-        <div class="containerBoutonsDegres">
-        <button onclick="temperatureCelsius()"  class="boutonGestion"> °C </button><button onclick="temperatureFarenheit()" class="boutonGestion"> °F </button>
-        </div>
-
-
+    <div class="dots">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
 
 
         </div>
         </div>
     </div>
-    <button onclick="gestionBooleanAffichage()" class="boutonPageNext"> → </button>
+    <button onclick="plusSlides(1)" class="boutonPageNext"> → </button>
 </div>

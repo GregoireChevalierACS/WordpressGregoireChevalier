@@ -45,32 +45,6 @@ function temperatureFarenheit(){
 }
 
 
-// slider villes
-// let slideIndex = 1;
-// showSlides(slideIndex);
-
-// Next/previous controls
-// function plusSlides(n) {
-//   showSlides(slideIndex += n);
-// }
-
-// function showSlides(n) {
-//   var i;
-//   var slides = document.getElementsByClassName("slide");
-//   var dots = document.getElementsByClassName("dot");
-//   if (n > slides.length) {slideIndex = 1}
-//   if (n < 1) {slideIndex = slides.length}
-//   for (i = 0; i < slides.length; i++) {
-//       slides[i].style.display = "none";
-//   }
-//   for (i = 0; i < dots.length; i++) {
-//       dots[i].className = dots[i].className.replace(" active", "");
-//   }
-//   slides[slideIndex-1].style.display = "block";
-//   dots[slideIndex-1].className += " active";
-// } 
-
-
 
 // localisation
 // window.fetch('https://api.openweathermap.org/data/2.5/weather?q=Strasbourg&units=metric&appid=dfe433b560b846bdaf2a1ed0e1767d0e')
@@ -106,10 +80,46 @@ window.fetch('https://api.openweathermap.org/data/2.5/weather?q=Strasbourg&units
 
 
 function testCookieStorage(){
-    let expirationCookie = new Date(date).toUTCString();
-    let cookie = escape(document.getElementById("ville").textContent) + "=" + escape(document.getElementById("temperature").textContent) + "=" + escape(document.getElementById("weather").textContent) + expirationCookie + ";";
+    let today = new Date();
+    const date = new Date(today);
+    date.setDate(date.getDate() + 5);
+    console.log(date);
+    let expiration = ";expires=" + date.toUTCString();
+    console.log(expiration);
+    let cookie = "CookieVille =" + escape(document.getElementById("ville").textContent) + (document.getElementById("temperature").textContent) + (document.getElementById("weather").textContent) + expiration + ";";
     document.cookie = cookie;
     console.log(cookie);
 }
 
-// testCookieStorage(a, b, c);
+
+
+
+
+var slideIndex = 1;
+showSlides(slideIndex);
+
+
+function plusSlides(n) {
+    showSlides(slideIndex += n);
+    console.log("oui");
+  }
+  
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("slide");
+    var dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideIndex = 1}    
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+  }
