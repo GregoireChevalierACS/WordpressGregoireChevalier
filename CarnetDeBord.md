@@ -152,9 +152,10 @@ Jour 9
  - dd
  - dd
 
-
+Bon, pour commencer la journée, on a été laissé en autonomie, et l'ambiance est, pour le moins ... décontractée. Oui.
+Après un rapide coup d'oeil au plugin, je décide 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDc4NDcyMCwtNjU2Njg4MzI3LDE4Mz
-c4MDM5MDBdfQ==
+eyJoaXN0b3J5IjpbMTMwMjQxMCwtNjU2Njg4MzI3LDE4Mzc4MD
+M5MDBdfQ==
 -->
