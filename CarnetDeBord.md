@@ -163,6 +163,13 @@ Ce que je peux être distrait...
 Allez, on repasse sur l'étude du MCD.
 À demain :p
 
+
+Jour 10
+14/2/2020
+
+ - Rectification des bugs créés par le carousel
+ - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MjQ0OTNdfQ==
+eyJoaXN0b3J5IjpbNjMyMDc4LDMwODI0NDkzXX0=
 -->
