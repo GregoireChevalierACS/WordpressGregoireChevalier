@@ -168,8 +168,11 @@ Jour 10
 14/2/2020
 
  - Rectification des bugs créés par le carousel
- - 
+ - d
+
+Salut, ça biche?
+Au programme ce matin, résolution de bugs. On verra ensuite pour l'implémentation du reste des fonctionnalités.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMDc4LDMwODI0NDkzXX0=
+eyJoaXN0b3J5IjpbLTU1MTYzMDQxOSwzMDgyNDQ5M119
 -->
