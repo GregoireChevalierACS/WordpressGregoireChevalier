@@ -168,7 +168,7 @@ Jour 10
 14/2/2020
 
  - Rectification des bugs créés par le carousel
- - d
+ - Implémentation de l'ajout de villes
 
 Salut, ça biche?
 Au programme ce matin, résolution de bugs. On verra ensuite pour l'implémentation du reste des fonctionnalités.
@@ -182,5 +182,5 @@ Maintenant que je peux à nouveau transformer les °F en°C, je vais décomposer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5OTc4NjE2XX0=
+eyJoaXN0b3J5IjpbLTE0OTc4NTM2NDcsNzQ5OTc4NjE2XX0=
 -->
