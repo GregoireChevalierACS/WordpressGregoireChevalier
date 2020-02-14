@@ -182,6 +182,5 @@ Maintenant que je peux à nouveau transformer les °F en°C, je vais décomposer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5OTc4NjE2LC01NTE2MzA0MTksMzA4Mj
-Q0OTNdfQ==
+eyJoaXN0b3J5IjpbNzQ5OTc4NjE2XX0=
 -->
