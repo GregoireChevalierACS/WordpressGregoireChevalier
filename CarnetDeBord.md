@@ -175,8 +175,13 @@ Au programme ce matin, résolution de bugs. On verra ensuite pour l'implémentat
 Maintenant que je peux à nouveau transformer les °F en°C, je vais décomposer les étapes qui vont me mener à pouvoir interroger l'API sur des villes différentes.
 1) Créer un formulaire au clic du bouton + du plugin.
 2) Interroger l'API à propos de la ville en question
-3) 
+3) Stocker les villes dans un array, et injecter ces données à un cookie
+4) Créer une slide pour chaque ville en appelant les données du cookie
+5) Voir pour les prévisions sur plusieurs jours.... Plus tard. Peut être.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTAwMTEwNSwtNTUxNjMwNDE5LDMwOD
-I0NDkzXX0=
+eyJoaXN0b3J5IjpbNzQ5OTc4NjE2LC01NTE2MzA0MTksMzA4Mj
+Q0OTNdfQ==
 -->
