@@ -178,9 +178,10 @@ Maintenant que je peux à nouveau transformer les °F en°C, je vais décomposer
 3) Stocker les villes dans un array, et injecter ces données à un cookie
 4) Créer une slide pour chaque ville en appelant les données du cookie
 5) Voir pour les prévisions sur plusieurs jours.... Plus tard. Peut être.
+Étape 1 passée avec succès. Maintenant je dois savoir comment stocker la valeur de l'input et comment l'utiliser pour l'insérer dans un fetch. Et de façon pas trop dégueulasse si possible, tant qu'à faire !
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc4NTM2NDcsNzQ5OTc4NjE2XX0=
+eyJoaXN0b3J5IjpbNTM4MjkxNDI5LDc0OTk3ODYxNl19
 -->
