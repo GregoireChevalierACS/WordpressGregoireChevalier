@@ -172,7 +172,8 @@ Jour 10
 
 Salut, ça biche?
 Au programme ce matin, résolution de bugs. On verra ensuite pour l'implémentation du reste des fonctionnalités.
-
+Maintenant que je peux à nouveau transformer les °F en°C, je vais décomposer les étapes qui vont me me
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTYzMDQxOSwzMDgyNDQ5M119
+eyJoaXN0b3J5IjpbNDY2MDE5OTg1LC01NTE2MzA0MTksMzA4Mj
+Q0OTNdfQ==
 -->
