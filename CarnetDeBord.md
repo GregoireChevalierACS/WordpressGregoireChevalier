@@ -183,6 +183,5 @@ formData, en Js, me paraît être une solution viable. À voir maintenant si je 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzcxNTAwNCw1MzgyOTE0MjksNzQ5OT
-c4NjE2XX0=
+eyJoaXN0b3J5IjpbMTAxMzcxNTAwNF19
 -->
