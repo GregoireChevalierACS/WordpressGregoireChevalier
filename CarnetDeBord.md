@@ -58,7 +58,7 @@ J'apprends aussi qu’Ajax est l’acronyme de « Asynchronous Javascript And Xm
 J'ai trouvé un site qui met en vis-à-vis les lignes de code en jQuery et en Js vanilla sur le site au doux nom de : https://putaindecode.io/articles/de-jquery-a-vanillajs/#ajax . Les codeurs sont des petits rigolo si tu veux mon avis  （°々。）
 Suite à la réunion initiée par notre cher formateur, il a fallu que je repense le projet du point de vue du concept. Je m'étais focalisé sur la technique pour voir ce que je pourrai réaliser et comment, malheureusement il aurait fallu partir du principe que la technique serait acquise et qu'il fallait concevoir de façon ambitieuse. Donc, papier, stylo et c'est parti pour coucher des idées sur le papier. 
 Me voilà donc avec un projet validé par ce cher formateur, qui y est allé de son petit ajout de fonctionnalité. Et autant je peux entrevoir comment je vais réaliser l'organisation du plugin, autant pour ce qui va être de le remplir, là ...  ¯\_(ツ)_/¯
-Mais au moins j'ai des jolis schémas. Je vais donc mettre tous mes doute sous le tapis (de souris) et ça ne sera un problème que demain matin.
+Mais au moins j'ai des jolis schémas. Je vais donc mettre tous mes doutes sous le tapis (de souris) et ça ne sera un problème que demain matin.
 
 7/2/2020
 Jour 5
@@ -163,6 +163,25 @@ Ce que je peux être distrait...
 Allez, on repasse sur l'étude du MCD.
 À demain :p
 
+
+Jour 10
+14/2/2020
+
+ - Rectification des bugs créés par le carousel
+ - Implémentation de l'ajout de villes
+
+Salut, ça biche?
+Au programme ce matin, résolution de bugs. On verra ensuite pour l'implémentation du reste des fonctionnalités.
+Maintenant que je peux à nouveau transformer les °F en°C, je vais décomposer les étapes qui vont me mener à pouvoir interroger l'API sur des villes différentes.
+1) Créer un formulaire au clic du bouton + du plugin.
+2) Interroger l'API à propos de la ville en question
+3) Stocker les villes dans un array, et injecter ces données à un cookie
+4) Créer une slide pour chaque ville en appelant les données du cookie
+5) Voir pour les prévisions sur plusieurs jours.... Plus tard. Peut être.
+Étape 1 passée avec succès. Maintenant je dois savoir comment stocker la valeur de l'input et comment l'utiliser pour l'insérer dans un fetch. Et de façon pas trop dégueulasse si possible, tant qu'à faire !
+formData, en Js, me paraît être une solution viable. À voir maintenant si je peux intégrer ça correctement au projet.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4MjQ0OTNdfQ==
+eyJoaXN0b3J5IjpbMTAxMzcxNTAwNF19
 -->
