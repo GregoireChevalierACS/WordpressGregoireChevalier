@@ -30,3 +30,47 @@ foreach($user_language as $lang)
 }
 
 ?>
+
+
+
+
+get FormData
+
+  window.addEventListener("load", function(){
+    function envoiDonnees(){
+        var XHR = new XMLHttpRequest();
+        var FD = new FormData(form);
+        XHR.addEventListener("load",function(event){ 
+            alert(event.target.responseText);
+        });
+
+        XHR.addEventListener("error", function(event) {
+            alert('Oups! Quelque chose s\'est mal passé.');
+        });
+
+        XHR.open("POST", "C:\Users\stagiaire acs\Desktop\www\wordpress\wp-content\plugins\lagregze-pluginmeteo\boiteAuxDonnees.php");
+        XHR.send(FD);
+    }
+
+    var form = document.getElementById("formulaireVille");
+
+    form.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        envoiDonnees();
+    });
+  });
+
+
+function testCookieStorage(valueCookie){
+    let today = new Date();
+    const date = new Date(today);
+    date.setDate(date.getDate() + 5);
+    console.log(date);
+    let expiration = ";expires=" + date.toUTCString();
+    console.log(expiration);
+    let cookie = "CookieVille =" + escape(document.getElementById("ville").textContent) + (document.getElementById("temperature").textContent) + (document.getElementById("weather").textContent) + expiration + ";";
+    document.cookie = cookie;
+    console.log(cookie);
+}
+

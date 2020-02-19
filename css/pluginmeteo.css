@@ -133,3 +133,10 @@ height: auto;
     justify-content: center;
     align-content: space-around;
 }
+
+#formulaireVille{
+    display: none;
+    background-color: rgb(65, 63, 55);
+    padding: 25px;
+    border-radius: 7px;
+}
